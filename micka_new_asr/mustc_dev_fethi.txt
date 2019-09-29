@@ -1,0 +1,1364 @@
+ted_767#0 so i'm going to talk today about energy and climate 
+ted_767#1 that might seem a bit surprising because my full time work of the foundation is mostly about vaccines and seeds about the things that we need to invent and deliver to help the poorest two billion live better lives 
+ted_767#10 the coal revolution fueled the industrial revolution in one thousand eight hundred's we've seen a very rapid decline and the price of electricity and that's why we have refrigerators air conditioning we can make modern materials and do so many things 
+ted_767#100 so we've got big cost challenges here 
+ted_767#101 we have transmission challenges for example say this energy sources outside your country not only need the technology but you have to deal with the risk of the energy coming from elsewhere 
+ted_767#102 finally the storage problem 
+ted_767#103 and dimensionalize this i went through and looked at all the types of batteries that get made for cars for computers for phones for flashlight for everything and compare that to the amount of electrical energy the world uses 
+ted_767#104 what i found is that all the batteries we make now could store less than ten minutes of all the energy 
+ted_767#105 in fact we need a big breakthrough here something that's going to be a factor of one hundred better than the approaches we have now 
+ted_767#106 it 's not impossible but it's not a very easy thing 
+ted_767#107 this shows up when you try to get to the intermittent soars to be a bob say twenty to thirty percent of what you're using 
+ted_767#108 if you're counting on it for one hundred percent you need a an incredible miracle battery 
+ted_767#109 now how we're going to go forward on this what's the right approach 
+ted_767#11 so we're in a wonderful situation with electricity in the rich world 
+ted_767#110 instead of manhattan project 
+ted_767#111 what 's the thing that can get us there 
+ted_767#112 we need lots of companies working on this hundreds 
+ted_767#113 each of these five paths we need at least one hundred people 
+ted_767#114 a lot of a mule look at and say they're crazy that's good and i think kiran the ted group we have many people who are already pursuing this 
+ted_767#115 bill gross has several companies including one called esolar that has some great solar thermal technology 
+ted_767#116 the node pollsters investing in dozens of companies that are doing great things and have interesting possibilities and i'm trying to help back that 
+ted_767#117 nathan myhrvold and i actually are back in a company that perhaps surprisingly is actually taking the nuclear approach 
+ted_767#118 there are some innovations in nuclear modular liquid 
+ted_767#119 innovation really stopped in this industry quite some time ago so the idea that there's some good ideas laying around is not all that surprising 
+ted_767#12 but as we make it cheaper and let's say let's go for making it twice as key we need to mean a new constraint and that constraint has to do with 
+ted_767#120 the idea of a terror power is that instead of burning the part of uranium the one percent which is that you to thirty five we decided well let's burn the ninety nine percent to thirty eight it 's kind of a crazy idea 
+ted_767#121 in fact people had talked about it for a long time but they could never simulate properly whether it would work or not until it through the advent of modern supercomputers that now you can simulate and see that yes with the right materials approach this looks like it would work 
+ted_767#122 because you're burning that ninety nine percent you have greatly improved cost profile 
+ted_767#123 we actually burn up the waste and you can actually use as fuel all the leftover waste from today's reactors 
+ted_767#124 so instead of worrying about them you just take that it's a great thing 
+ted_767#125 breeds this uranium as it goes along so it's kind of like a candle 
+ted_767#126 it's a log there are often referred to as a traveling wave reactor 
+ted_767#127 in terms of fuel this really solve the problem 
+ted_767#128 a picture here have a place in kentucky 
+ted_767#129 the left over the ninety nine percent where they've taken out the part they are now so it's called depleted uranium 
+ted_767#13 is warming the planet and the equation on is actually a very straightforward one 
+ted_767#130 that would power the u s for hundreds of years 
+ted_767#131 simply by filtering seawater in an inexpensive process you'd have enough fuel for the entire lifetime of the rest of the planet 
+ted_767#132 so it's got lots lots of challenges ahead but it is an example of the many hundreds and hundreds of ideas that we need to move forward 
+ted_767#133 so let's think how should we measure ourselves 
+ted_767#134 what should our report card looked like 
+ted_767#135 well let's go out to where we really need to get in and then looked at the intermediate 
+ted_767#136 for two thousand and fifty you've heard many people talk about this eighty percent reduction 
+ted_767#137 that really is very important that we get there 
+ted_767#138 that twenty percent will be used by things going on in poor countries still some agriculture hopefully we will have cleaned up forestry cement 
+ted_767#139 so to get to that eighty percent the developed countries including countries like china will have had to switch their electronic electricity generation altogether 
+ted_767#14 if you sum up the to that gets admitted that leads to a temperature increase and that temperature increase leads some very negative effects the effects on the weather perhaps worse the indirect effects and that of the natural ecosystems camped adjust to these rapid changes and so you get ecosystem collapses 
+ted_767#140 the other great is are we deploying this zero emissions technology we deployed it in all the developed countries and we're in the process of getting it out elsewhere 
+ted_767#141 super important 
+ted_767#142 a key element of making that report card 
+ted_767#143 backing up from nair what should the two thousand and twenty report card looked like 
+ted_767#144 again it should have the two elements 
+ted_767#145 we should go through these efficiency measures to start getting reductions the less we emit the left that some will be of and therefore the less the temperature 
+ted_767#146 but in some ways the grade we get there doing things that don't get us all the way to the big reductions is only equally or maybe even slightly less important than the other which is the pace of innovation on these breakthroughs 
+ted_767#147 these breakthroughs we need to move those at full speed and we can measure that in terms of companies pilot projects regulatory things that have been changed 
+ted_767#148 a lot of great books written about this 
+ted_767#149 the al gore book our choice and the david mackay book sustainable energy without the hot air they really go through it and i think can create a framework that this can be discussed broadly because we need broad backing for this 
+ted_767#15 the exact amount of how you map from a certain increase and have to do what temperature will be and where the positive feedbacks are there some uncertainty there but not very much 
+ted_767#150 so there's a lot has to come together 
+ted_767#151 so this is a whiff 
+ted_767#152 it 's a very concrete wish that we invent this technology 
+ted_767#153 you gave me only one wish for the next two years i can pick whose president i can pick the vaccine which is something i love or i could pick that this thing that half the class with gets invented this is the wish i would pick 
+ted_767#154 the one with the greatest impact 
+ted_767#155 we don't get this wish to division between the people who think short term and long term will be terrible between us and china between poor countries and rich and most of all the lives of those two billion will be far worse 
+ted_767#156 so what do we have to do 
+ted_767#157 what am i appealing to you to step forward and and drive 
+ted_767#158 we need to go for more research funding 
+ted_767#159 when countries get gather at places like copenhagen nation just discussed the ceiling 
+ted_767#16 there are certainly uncertainty about how bad those effects will be but they will be extremely bad 
+ted_767#160 we should discuss this innovation agenda 
+ted_767#161 would be stunned at the ridiculously low levels of spending on these innovative approaches 
+ted_767#162 we do need to market incentives to tax cap and trade something that gets that price signal out there 
+ted_767#163 we need to get the message out 
+ted_767#164 we need to have this dialogue be a more rational more understandable dialogue including the steps of the government takes 
+ted_767#165 is an important wish but it is one i think we can achieve 
+ted_767#166 thank you 
+ted_767#167 like milk 
+ted_767#168 thank you to understand more about about terrapower right 
+ted_767#169 first of all what can you give a central what sort of scale of investment they said 
+ted_767#17 i asked the top scientists and several times do we really have to get down to near zero 
+ted_767#170 what do they actually do this software by the supercomputer higher all the great scientists which we've done that's only tens of millions 
+ted_767#171 even once we test our materials out in a russian reactor to make sure that our materials work properly then you'll only be up and hundreds of millions 
+ted_767#172 for the topping is building the pilot reactor finding the several billion are finding him the regulator that location that will actually build the first one of these 
+ted_767#173 once you get the first one built if it works as advertised as clear as day because the economics the energy density are so different than nuclear as we know it 
+ted_767#174 we understand it right this involves building deep into the ground almost like a vertical column of nuclear fuel have spent uranium and then and then and then the process starts at the top and works down 
+ted_767#175 
+ted_767#176 today your eyes refueling the reactor she had lots of people and lots of controls that can go wrong thing where your opening it up and moving things in and out that that's not good 
+ted_767#177 so if you have very 
+ted_767#178 a very cheap fuel then you can put sixty years and just think of it as a log put it down and not have those same complexities 
+ted_767#179 it just sits there and burns for the sixty years and then it's done 
+ted_767#18 can we just cut it in half for a quarter 
+ted_767#180 it 's a nuclear power plant waste disposal solution 
+ted_767#181 what happens with waste you can you can let it sit there there's a lot less waste under this approach then you can actually picked out and put it into another one and burn now 
+ted_767#182 we start out actually by taking the waste that exist today that sitting in these cooling pools are dry casks by reactors that's our fuel to begin with 
+ted_767#183 so the thing that's been a problem from those reactors is actually what gets spent indoors and you're reducing the volume of the waste quite dramatically going through this process 
+ted_767#184 we 're talking to different people around the world about the possibilities here whereas most interest and actually doing something with it 
+ted_767#185 well we haven't picked a particular place but there's all these interesting disclosure rules that anything it's called nuclear so we've got a lot of interest that people from the company have been in russia india china 
+ted_767#186 been vaccine the secretary of energy here talking about how this fits into the the energy agenda so i'm optimistic 
+ted_767#187 french and japanese have done some work 
+ted_767#188 which is a variant on something that has been done 
+ted_767#189 it 's an important advance but it's like a fast reactor and a lot of countries have built them so anybody who is not a fast reactor is a candidate to to be where the first one gets built 
+ted_767#19 the answer is that until we get near to zero the temperature will continue to rise 
+ted_767#190 in your mind time scale and likelihood of actually taking certain like this life 
+ted_767#191 while we need for one of these high skill electric electrical generation thinks that's very cheap we have twenty years to invent and then twenty years to deploy 
+ted_767#192 the deadline that the buyer models environmental models of has shown us that we have to meet 
+ted_767#193 terrapower if things go well which is wishing for a lot could easily meet that 
+ted_767#194 there are fortunately now thousands of companies we need to be hundreds who likewise if their science goes well if the funding for their plant pilot plants goes well that they can compete for this 
+ted_767#195 basket multiple succeed because then you can use a mix a mix of these things 
+ted_767#196 we certainly need one to succeed 
+ted_767#197 in terms of big scale possible game changes the biggest that you're aware about that 
+ted_767#198 and energy breakthrough is the most important thing 
+ted_767#199 would have been even without the environmental constraints that the environmental country just makes that so much so much greater 
+ted_767#2 but energy and climate are extremely important to these people in fact more important than to anyone else on the planet 
+ted_767#20 so that's that's a big challenge 
+ted_767#200 the nuclear space there are other renovators 
+ted_767#201 we don't know their work as well as we know this one but the modular people that's a different approach 
+ted_767#202 as a liquid type reactor which seems a little hard but maybe they say about us 
+ted_767#203 there are different ones but the beauty of this is a molecule of uranium has a million times as much energy as a molecule of say call 
+ted_767#204 so if you can deal with the negatives but essentially the radiation the footprint and cost the potential in terms of effect on land and various things is an almost on a class of its own 
+ted_767#205 if this doesn't work there 
+ted_767#206 we have to start taking emergency measures to try and keep the temperature of the earth stable 
+ted_767#207 you get into that situation it's like if you're you've been overeating and you're about to have a heart attack then then than where do you go you may need heart surgery or something 
+ted_767#208 there is a line of research on what's called geoengineering which are various techniques that would delay the heating tobias twenty or thirty years to get our act together 
+ted_767#209 you hope that's just an insurance policy you hope you don't need to do that 
+ted_767#21 it 's very different than saying we're a twelve foot high truck trying to get under a ten foot bridge and we can just sort of squeeze under this is something that has to get to zero 
+ted_767#210 some people say you shouldn't even work on the insurance policy because it might make you lazy that you'll keep eating because heart surgery will be there to save you 
+ted_767#211 i 'm not sure that's why he's given the importance of the problem but now that geoengineering discussion about should that be in the back pocket in case things happen faster or this innovation goes a lot slower than we expect 
+ted_767#212 climate skeptics if you had a sentence or two to say to them how might you persuade them that they are wrong 
+ted_767#213 well unfortunately the skeptics come in different camps 
+ted_767#214 when the ones who make scientific arguments are very few 
+ted_767#215 are they saying that there's negative feedback effects that have to do with clouds that offset things 
+ted_767#216 very very few things that they can even say there's a chance at a million of those things 
+ted_767#217 the main problem you have here it's kind of like a's you make the mistake now and pay for it a lot later 
+ted_767#218 so when you have all sorts of urgent problems the idea of taking pain now that has to do it again later and a somewhat uncertain painting 
+ted_767#219 in fact the i p c c report that that not necessarily the worst case and there are people in the ritual to look i p c c and say ok you know that that isn't that big a deal the fact is that uncertain part that should move us toward says 
+ted_767#22 we put out a lot of carbon dioxide every year over twenty six billion tons 
+ted_767#220 but my dream here is that if you can make good economic and meet the constraint then the skeptics say ok i don't care that it doesn't put out to i kind of wish it did put out to but i guess i'll accept it because it's cheaper than what's come before 
+ted_824#1230 the planet we live on 
+ted_824#1231 we don't pretend it isn't 
+ted_824#1232 we love to wrap ourselves in life we love to do it everyone take their vitamins this morning 
+ted_824#1233 it can be shown that condition little antioxidant to get going 
+ted_824#1234 you did because half of americans do every day 
+ted_824#1235 take the stopped and they take alternative medicines and it doesn't matter how often we find out that they're useless 
+ted_824#1236 the data stilted all the time the dark in your urine they almost never do more than that you want to pay twenty eight billion dollars her dark hair 
+ted_824#1237 totally with you dark urine dark why do we do that why do we do not understand we pink pig farmer 
+ted_824#1238 we can't govern 
+ted_824#1239 we don't trust the man 
+ted_824#1240 we shouldn't our healthcare system stuck 
+ted_824#1241 crunch of millions of people 
+ted_824#1242 absolutely astonishing cold and fold than those of us who can even afford it 
+ted_824#1243 should we run away from and where do we run 
+ted_824#1244 when leap into the arms of big placebo that's fantastic 
+ted_824#1245 i love good food 
+ted_824#1246 you know it's not it's really a serious thing because this stuff is crap and we spend billions of dollars on it 
+ted_824#1247 how offshoots of little props here 
+ted_824#1248 gingko fraud explanation fraud a k i don't even know what that is what we're spending billions of dollars on its fraud 
+ted_824#1249 when i got people scream at me and they said wouldn't care 
+ted_824#1250 but people do what they want to do it makes them feel good and you know what you're wrong because i don't care if it's the secretary of hhs hussein who i'm not going to take the evidence of my experts on mammograms or some cancer quack who wants to treat his patient with coughing animals 
+ted_824#1251 when you start down the road where belief and magic replace evidential science you ended up in a place you don't want to be 
+ted_824#1252 if you end up in kabul and becky south africa 
+ted_824#1253 he can't four hundred thousand of his people by insisting that big route garlic and lemon oil were much more effective than the anti retroviral drugs we know can slow the course 
+ted_824#1254 hundreds of thousands of needless deaths in a country that has been plagued worse than any other by this 
+ted_824#1255 please don't tell me there are no consequences to these things there are there always are now the most minute epidemic were in the middle of right now is just absurd battle between proponents of genetically engineered food and the organic elite 
+ted_824#1256 an idiotic could be it has to stop 
+ted_824#1257 it 's a debate about words about metaphors 
+ted_824#1258 ideology not science 
+ted_824#1259 every single thing we eat every grain of rice every sprig of parsley every brussel sprout has been modified by man 
+ted_824#1260 there weren't tangerines in the garden of eden there wasn't any cantaloupe there one christmas tree 
+ted_824#1261 we made it 
+ted_824#1262 we made it over the last eleven thousand 
+ted_824#1263 for years and someone who worked in some 
+ted_824#1264 we got rid of the stopped it didn't 
+ted_824#1265 we can do it in a more precise way and there are risks absolutely but we can put something like vitamin a into rice and that stuff can help millions of people millions of people prolong the lives 
+ted_824#1266 we don't want to do that 
+ted_824#1267 i have to say i don't understand 
+ted_824#1268 we object to genetically engineered food 
+ted_824#1269 why do we do that 
+ted_824#1270 with the things i constantly here are too many chemicals pesticides hormones monoculture we don't want giant fields of the same thing it's wrong 
+ted_824#1271 we don't want companies patently life 
+ted_824#1272 we don't want companies own feet 
+ted_824#1273 my response to all of that 
+ted_824#1274 yeah you're right let's picks it it's true we've got a huge food problem with this isn't science 
+ted_824#1275 from nothing to do with time 
+ted_824#1276 lights morality its patented stuff 
+ted_824#1277 fire in an accompanying 
+ted_824#1278 but it's not a country 
+ted_824#1279 not even an idea it's a process 
+ted_824#1280 a process and sometimes it works and sometimes it doesn't but the idea that we should not allow scientists to do its job because we're afraid is really very deadening and its preventing millions of people from prospering 
+ted_824#1281 in the next fifty years we're going to have to grow to seventy percent more food than we do right now seventy percent 
+ted_824#1282 embarrassment in africa over the last thirty years disgraceful disgraceful they need it and we're not giving a tunnel in why genetically engineered food we don't want to encourage people to eat that rotten stuff like cassava for instance 
+ted_824#1283 something that half a billion people 
+ted_824#1284 kind of like a potato 
+ted_824#1285 with a bunch of calories it sucks it doesn't have nutrients doubling up protein and scientists are engineering all that into it right now 
+ted_824#1286 people would be able to eat and they'd be able to not go blind 
+ted_824#1287 wouldn't stop and you know what that would be nice wouldn't be shaken his but it would be nice 
+ted_824#1288 and all i can say about this is why are we fighting 
+ted_824#1289 ask yourself why are we going 
+ted_824#1290 because we don't want to move genes 
+ted_824#1291 about moving gender 
+ted_824#1292 it 's not about chemicals 
+ted_824#1293 it 's not about are ridiculous passion for hormones are insistence on adding bigger food better food singular food 
+ted_824#1294 about rice krispies because about keeping people alive and it's about time we started to understand what that meant 
+ted_824#1295 because you know something 
+ted_824#1296 if we don't if we continue to act the way we're acting were guilty of something that i don't think we wanted to be guilty of high tech colonialism 
+ted_824#1297 no other way to describe what's going on here 
+ted_824#1298 selfish it's ugly its beneath us and we really have to stop it 
+ted_824#1299 so after that amazingly fun conversation you might want to say so you don't want to go because time machine and go forward an absolutely absolutely i do it stuck in a protein right now but we have an amazing opportunity 
+ted_824#1300 we construct that time machine on any thing we want 
+ted_824#1301 we can move where we want to move it and we're going into that where we want to move 
+ted_824#1302 we have to have these conversations and we have to think well when we given the time machine and we go ahead we're going to be happy we do i know that we kiln and as far as i'm concerned that the world needs rotten 
+ted_837#1303 several years ago here at ted peter skillman introduced the design challenge called the marshmallow challenge 
+ted_837#1304 the idea is pretty simple teams of four have to build the tallest freestanding structure out of twenty six of spaghetti one yard of tape one yard of string and a marshmallow 
+ted_837#1305 and the marshmallow has to be on top 
+ted_837#1306 though it seems really simple it's actually pretty hard because it forces people to collaborate and very quickly 
+ted_837#1307 so i thought this was an interesting idea and i incorporated it into a design workshop 
+ted_837#1308 and it was a huge success 
+ted_837#1309 since then i've conducted about seventy design workshops across the world with students and designers and architects even the details of the fortune fifty and there's something about this exercise that revealed very deep lessons about the nature of collaboration and i'd like to share some of them with you 
+ted_837#1310 so normally most people begin by orienting themselves to the task 
+ted_837#1311 they talk about it they figure out what it's going to look like the jockey for power 
+ted_837#1312 when they spend some time planning organizing by sketching they lay out spaghetti 
+ted_837#1313 they spend the majority of their time assembling the sticks into ever growing structures 
+ted_837#1314 then finally just as they are running out of time someone takes out the marshmallow and then they generally put it on top and they stand back and cut they admire their work 
+ted_837#1315 but what really happens most of the time that it turns into an o the weight of the marshmallow causes the entire structure to buckle and to collapse 
+ted_837#1316 so there are a number of people who have a lot more moments than others and among the worst our recent graduates of business school they lie cheat they get distracted they've done they produce really lame structures 
+ted_837#1317 of course there are teams would have a lot more to that structures and among the best our recent graduates of kindergarten and a truly amazing 
+ted_837#1318 peter tell this not only do they produce the tallest structures but the most interesting structures of them all 
+ted_837#1319 so the question you want to ask is how come why what does that about them and peter likes to say that none of that none of the kids spend any time trying to be ceos spaghetti ink right they don't spend time jockeying for power 
+ted_837#1320 but there's another reason as well 
+ted_837#1321 the reason is that business students are trained to find the single right plan 
+ted_837#1322 then they execute on it and then what happens is when they put the marshmallow on chop they ran out of time and what happens 
+ted_837#1323 a crisis sound familiar right what kindergarteners do differently if they start with the marshmallow and they build prototype successive prototypes always keeping the marshmallow and top so they have multiple times to to fix it and build prototypes along the way 
+ted_837#1324 diners recognizes type of collaboration as the essence of the iterative process 
+ted_837#1325 with each version kids get instant feedback about what works and what doesn't work 
+ted_837#1326 so the capacity to play and prototype is really essential but let's look at how different teams perform 
+ted_837#1327 so the average for most people is around twenty inches business school students about half of that lawyers little better but not much better than that kindergarten better than most adults 
+ted_837#1328 but as the very best 
+ted_837#1329 for architects and engineers thankfully and thirty nine inch the tallest structure i've seen 
+ted_837#1330 why is that 
+ted_837#1331 because they understand triangles and self reinforcing geometrical patterns are the key to building 
+ted_837#1332 self reinforce a stable structures so a little bit better than average but here's where get interesting 
+ted_837#1333 if you put in an executive admin on the team they get significantly better credible 
+ted_837#1334 he looked around to go out that he was going to in egypt tell beforehand and why is that because they have special skills of facilitation 
+ted_837#1335 manage the process they understand the process 
+ted_837#1336 any team who manages then pays close attention to to work will significantly improve the team's performance 
+ted_837#1337 specialized skills and facilitation skills and the combination leads to to strong success 
+ted_837#1338 ten teams that typically perform you'll get maybe six or so that have standing structures 
+ted_837#1339 i tried something interesting i thought let's up the ante ones 
+ted_837#1340 so i offered a ten thousand dollar price of software to the winning 
+ted_837#1341 fame so what do you think happened to the design 
+ted_837#1342 what was the result 
+ted_837#1343 what would happen not one team had a standing structure 
+ted_837#1344 one had if anyone had built they are one inch structure they were taken on the price so interesting that high stakes have a strong impact 
+ted_837#1345 we did the exercise again with the same students 
+ted_837#1346 what do you think happened to them 
+ted_837#1347 so now they understand the value 
+ted_837#1348 so the thing team went from being the very worst to being among the very best 
+ted_837#1349 but he predicts the tallest structures in the least amount of time 
+ted_837#1350 so there's a deep lessons for us about the nature of incentives and success 
+ted_837#1351 so you might ask why would anyone actually spend time running a marshmallow challenge 
+ted_837#1352 and the reason i helped create digital tools and processes to help teams build cars and video games and visual effects 
+ted_837#1353 what the marshmallow challenge data that helps identify the hidden assumption 
+ted_837#1354 because frankly every project has its own marshmallow doesn't it 
+ted_837#1355 the challenge provide the shared experience a common language common stands to build the right prototype 
+ted_837#1356 the value of the experience of this so simple exercise 
+ted_837#1357 those of you who are interested me when you go to marshmallow challenge dot com it's a blog that you can look at how to build the marshmallow 
+ted_837#1358 step by step instructions on this 
+ted_837#1359 are crazy examples from around the world of how people tweak and adjust the system 
+ted_837#1360 world records but are on this as well 
+ted_837#1361 the fundamental lesson i believe is that design truly is a contact sport 
+ted_837#1362 it demands that we bring all the more sensitive to the task and that we apply the very best of our thinking or feeling and are doing to the challenge that we have at hand 
+ted_837#1363 and sometimes a little prototype of this experience is all it takes to turn its from an oh moment to moment 
+ted_837#1364 and that can make a big difference 
+ted_837#1365 thank you very much 
+ted_767#221 the response to the bjorn lomborg argument that basically if you spend all this energy trying to solve the problem it's going to take away all your other goals are trying to rid the world of poverty and malaria and so forth stupid waste of the earth's resources to put money towards that when there are better things we can do 
+ted_767#222 will the actual spending on the arm good piece say the u s should spend ten billion year more than a is right now it's not that traumatic 
+ted_767#223 it shouldn't take away from other things 
+ted_767#224 but then you get into big money on and this reasonable people can disagree is when you have something that's not economic and you're trying to fund that that to me mostly as waste 
+ted_767#225 unless you're very close and you're just funding the learning curve and it's going to get very cheap i believe we should try more things that have the potential to be far less expensive 
+ted_767#226 the tradeoff you get into his let's make energy super super expensive than the rich can afford that 
+ted_767#227 all of us here could pay five times as much for energy and not change our lifestyles 
+ted_767#228 but a disaster for that two billion 
+ted_767#229 on board has changed his stick now is why isn't the r d getting more disgust he still because it is earlier stuff sort of associated with a skeptic camp but he has realized that that's a pretty lonely cap and so he's making the r d point 
+ted_767#23 for each american it's about twenty tons 
+ted_767#230 and so there is a threat of something that i think is appropriate 
+ted_767#231 beyond the piece it's crazy how little it fun 
+ted_767#232 although i suspect i d come up with most people here to say i really hope you'll wish comes true 
+ted_767#233 thank you 
+ted_767#234 thank you 
+ted_767#24 for people in poor countries it's less than one time 
+ted_767#25 on average about five tons for everyone on the planet 
+ted_767#26 somehow we have to make changes that will bring that down to zero 
+ted_767#27 been constantly going up 
+ted_767#28 only various economic changes that have even flattened at all so we have to go from rapidly rising to falling and falling all the way to zero 
+ted_767#29 equation has four factors little bit of multiplication 
+ted_767#3 climate getting worse means that many years their crops won't grow and be too much rain not enough rain things will change in ways that their fragile environment simply can't support 
+ted_767#30 so you've got it going on the last year to want to get to zero and that's going to be based on the number of people the services each person choosing on average the energy on average for each service and the been put out a per unit of energy 
+ted_767#31 so let's look at each one of these and see how we can get down to zero 
+ted_767#32 probably one of these numbers is going to have to get pretty near the sierra 
+ted_767#33 that back from high school algebra but let's let's take a look 
+ted_767#34 in the world today has six point eight billion people that's headed up to about nine billion 
+ted_767#35 we do a really great job on new vaccines healthcare reproductive health services we could lure that by perhaps ten or fifteen percent but there we see an increase of 
+ted_767#36 the second factor is the services we use 
+ted_767#37 encompasses everything the food we clothing tv heating 
+ted_767#38 these are very good things are getting rid of poverty means providing the services to almost everyone on the planet 
+ted_767#39 it 's a great thing for this number to go up 
+ted_767#4 that leads to starvation leads to uncertainty at leeds unrest 
+ted_767#40 the rich world perhaps the top one billion we probably could cut back and use less but every year this number on average is going to go up and so overall that will more than double the services delivered per person 
+ted_767#41 we have a very basic service do you have lighting in your house to be able to read your homework 
+ted_767#42 in fact these kids don't so they're going out and reading their schoolwork under the street lamps 
+ted_767#43 efficiency in the energy for each service here finally we have some good news 
+ted_767#44 we have something that's not why not 
+ted_767#45 it through various inventions and new ways of doing lighting through different types of cars have different ways of building buildings there are a lot of services where you can bring the energy for that service down quite substantially 
+ted_767#46 some individuals services even bring it down by ninety percent 
+ted_767#47 other services like how we make fertilizer how we do air transport where the room for improvement are far far less 
+ted_767#48 so overall here if we're optimistic we may get a reduction of a factor of three to even perhaps a factor of six 
+ted_767#49 but for the first three factors now we've gone from twenty six billion to at best maybe thirteen billion tons and that just won't cut it 
+ted_767#5 so the climate changes will be terrible for them 
+ted_767#50 so let's look at this fourth factor there's going to be a key one and this is the amount of to put out for each unit of energy 
+ted_767#51 so the question is can you actually get that to zero 
+ted_767#52 if you burn coal no 
+ted_767#53 if you burn natural gas 
+ted_767#54 almost every way we make electricity today except for the emerging renewables and nuclear puts out 
+ted_767#55 we're going to have to do at a global scale is create a new system 
+ted_767#56 we need energy miracles 
+ted_767#57 i don't want to use the term miracle i don't mean something that's impossible 
+ted_767#58 the microprocessor as a miracle 
+ted_767#59 for personal computers a miracle 
+ted_767#6 also the price of energy is very important to them 
+ted_767#60 the internet services or a miracle 
+ted_767#61 so the people here have participated in the creation of many miracles 
+ted_767#62 usually we don't have a deadline where you have to get the miracle by a certain date 
+ted_767#63 usually you just kind of standby in some kind of long some don't 
+ted_767#64 this is a case where we actually have to drive at full speed and get a miracle enter a pretty tight timeline 
+ted_767#65 i thought how could i really captured 
+ted_767#66 if there's some kind of natural illustration some demonstration that would grab people's imagination here i thought back to a year ago when i brought mosquitoes and somehow people enjoyed that 
+ted_767#67 it really got them involved in the idea of other people who lived with mosquitoes 
+ted_767#68 so when energy all i could come up with is this 
+ted_767#69 i decided that releasing fireflies would be my contribution to the environment here this year 
+ted_767#7 in fact you could pick just one thing the lower the price of to reduce poverty by far you would pick energy 
+ted_767#70 so here we have certainly untrue 
+ted_767#71 controlled they don't bite in fact they might even not even leave that jar 
+ted_767#72 there 's all sorts of gimmicky solutions like that one but they don't really add up to much 
+ted_767#73 we need solutions either one or several that have unbelievable scale and unbelievable reliability 
+ted_767#74 although there are many directions or people seeking i really only see five that can achieve the big numbers 
+ted_767#75 left out tied geothermal fusion 
+ted_767#76 those may make some contribution and if they can do better than i expect so much the better 
+ted_767#77 but my key point here is that we're going to have to work on each of these five and we can't give up any of them because they looked daunting because they all have significant challenges 
+ted_767#78 so let's look first at the burning fossil fuels either burning coal burning natural gas 
+ted_767#79 what you need to do there seems like it might be simple but it's not 
+ted_767#8 the price of energy has come down over time 
+ted_767#80 and that's to take all the after you burn it going out the flu pressurized cradle liquid put it somewhere and hope it stays there 
+ted_767#81 we have some pilot things that do this at the sixty to eighty percent level 
+ted_767#82 but getting up to that fold percentage that will be very tricky 
+ted_767#83 a green on where these two quantity should be put will be hard but the toughest one here is this long term issue who's going to be sure 
+ted_767#84 so who's going to guarantee something that is literally billions of times larger than any type of waste you think oven in terms of nuclear other things 
+ted_767#85 this is a lot of mine 
+ted_767#86 so that's a cop one 
+ted_767#87 next would be nuclear it also has a three big problems cost particularly in highly regulated countries is high the issue of the safety really feeling good about nothing can go wrong that he'd been all you have these human operators that the fuel doesn't get used for weapons 
+ted_767#88 what do you do with waste 
+ted_767#89 and although it's not very large or there are a lot of concerns about that 
+ted_767#9 really advanced civilization as based on an advances in an energy 
+ted_767#90 people need to feel good about it 
+ted_767#91 so three very calm problems that might be solvable and so should be worked on 
+ted_767#92 for the last three of the five i group together 
+ted_767#93 so these are what people often referred to as the renewable sources 
+ted_767#94 actually all loads rate they don't require fuel they have some disadvantages 
+ted_767#95 one is that the density of energy gather in these technologies is dramatically less than a power plant 
+ted_767#96 is energy farming so you're talking about many square miles thousands of times more area then then you think of as a normal energy plant 
+ted_767#97 also these are intermittent sources 
+ted_767#98 the sun doesn't shine all day doesn't shine everyday and likewise the wind doesn't blow all the time 
+ted_767#99 so you depend on the sources you have to have some way of getting energy during those time periods that it's not available 
+ted_769#235 like to share with you a discovery that i made a few months ago while writing an article for italian wired 
+ted_769#236 i always keep my authority and he never i'm writing anything but i'd already finished editing the peace and i realized that i had never won in my life looked up the word the fabled to see what i'd find 
+ted_769#237 when we redid the entry disable additive crippled helpless useless wrecked stalled maimed wounded mangled lame mutilated rundown worn out weekend impotent castrated paralyzed handicapped penile decrepit laid up down up done for done in cracked up counted out the also hurt useless and weak antonin healthy strong capable i was reading it left out loud to a friend and at first but i'm laughing at which so ludicrous but i just gotten past mangled my voice broke and i had to stop and collect myself from the emotional shock and an impact that the assault from these words unleashed 
+ted_769#238 of course with his my raggedy old thesaurus unthinking must be an ancient print date 
+ted_769#239 but in fact a twenty eight was the early nineteen eighties when i would have been starting primary school and forming and understanding of myself outside the family unit and as related to the other kids in the world around me 
+ted_769#240 needless to say thank god i wasn't using the sorrow batman 
+ted_769#241 this entry it would seem that i was born into a world that perceived someone like me to have nothing positive whatsoever going for them when in fact today i'm celebrated for the opportunities and adventures my life have prepared 
+ted_769#242 so i immediately went to look up the two thousand and nine online edition expecting to find revision worth noting 
+ted_769#243 and here's the updated version of this entry 
+ted_769#244 unfortunately it's not much better 
+ted_769#245 i find the the last two words under near adnams particularly unsettling hole and wholesome 
+ted_769#246 so it's not just about the word 
+ted_769#247 what we believe that our people when we name them with these words 
+ted_769#248 what about the values behind the word and how we construct those values 
+ted_769#249 foreign language effects are thinking and how we view the world and how we view other people 
+ted_769#250 in fact many ancient society including the greeks and the romans believed that to utter a curse verbally was so powerful because to say that thing outloud brought it into existence 
+ted_769#251 so what reality we want to call into existence the person who is limited or person with empowered 
+ted_769#252 by casually doing something as simple as naming a person a child we might be putting lid and casting shadows on their power 
+ted_769#253 we want to open doors for them instead 
+ted_769#254 once a person who opened doors for me with my childhood doctor at the ai dupont institute in wilmington delaware 
+ted_769#255 name as dr peter kilo italian american whose name apparently was too difficult for most americans to pronounce so he went by dr p and dr p always were really colorful bow ties and have the berry perfect position to work with children 
+ted_769#256 i loved almost everything about my time spent at the hospital with the exception of my physical therapy session 
+ted_769#257 i had to do what seemed like innumerable repetitions of exercises with the thick elastic band different colors to help build up my leg muscles and i hated these bands more than anything i hated them had named for them i hear them and you know i was already bargaining at the five year old child with dr peter try to get out of doing these exercises unsuccessfully of course 
+ted_769#258 one day he came in to my fashion exhaustive and unforgiving recession and he said to me wow 
+ted_769#259 you 're such a strong and powerful little girl i think you're going to break one of those ban when you do break and i'm going to give you one hundred bucks 
+ted_769#260 but our current before the simple ploy on dr p s part could get me to do the exercises that i didn't want to do before the prospect of being the richest five year old and the second floor award but what he effectively did for me was reshape an awful daily occurrence into a new and promising experience for me 
+ted_769#261 i have to wonder today to what extent his vision and his declaration of me as a strong and powerful little girl shaped my own view of myself as an inherently strong powerful and athletic person well into the future 
+ted_769#262 and this is an example of how adults in positions of power can ignite the power of a child 
+ted_769#263 but in the previous instances of both the thar centuries now our language isn't allowing us to evolve into the reality that we would all want now the possibility of an individual to see themselves as capable 
+ted_769#264 our language haven't caught up with the changes in our society many of which have been brought about by technology 
+ted_769#265 certainly from a medical fan point my legs laser surgery for vision impairment titanium knees and hip replacements for aging bodies that are allowing people to more fully engaged with their abilities and move beyond the limits that nature has imposed on them not to mention social networking platform allows people to self identify to claim their own descriptions of themselves so they can go aligned with global groups of their own choosing 
+ted_769#266 perhaps technology is revealing more clearly truth now what has always been a truth that everyone has something rare and powerful to offer our society and that the human ability to adapt to their greatest asset 
+ted_769#267 and human ability to adapt and interesting thing because people have continually wanted to talk to me about overcoming adversity and i'm going to make an admission disgrace never sat right with me and i always felt uneasy trying to answer people's questions about it and i think i'm starting to figure out why 
+ted_769#268 implicit in this phrase of overcoming adversity is the idea that success or happiness it about emerging on the other side of a challenging experience unscathed or unmarked by the experience as if my successes in life has come about from an ability to side step or circumnavigate the presumed pitfalls of a life with prosthetic there were other people perceived as my disability 
+ted_769#269 but in fact we are changed 
+ted_769#270 we are marked of court by a challenge whether physically emotionally or both 
+ted_769#271 and i'm going to suggest that this is a good thing 
+ted_769#272 adversity isn't an obstacle that we need to get around in order to resume living our lives 
+ted_769#273 part of our life 
+ted_769#274 i tend to think of it like my shadow 
+ted_769#275 sometimes i feel a lot of it sometimes there's very little but it's always with me 
+ted_769#276 certainly i'm not trying to diminish the impact the weight of a person struggle 
+ted_769#277 there 's adversity and challenge in life and it's all very real and relative to every single person but the question isn't whether or not you're going to meet adversity but how you're going to meet it 
+ted_769#278 so our responsibility is not simply shielding those we care for from adversity but preparing them to meet it well 
+ted_769#279 we do a disservice to our kids when we make them feel that they're not equipped to adapt 
+ted_769#280 it 's an important different and distinction between the objective medical fact of my being an amputee and the subjective societal opinion of whether or not i'm the fabled 
+ted_769#281 truthfully the only real and consistent disability i've had to confront the world ever thinking that i could be described by those definitions 
+ted_769#282 in our desire to protect those we care about by giving them a cold hard truth about their medical prognosis or indeed a prognosis on the expected quality of their life we have to make sure that we don't put the first brick wall that will actually disabled 
+ted_769#283 perhaps the existing model of only looking at what is broken in new and how do we fix it served can be more disabling to the individual than the pathology itself 
+ted_769#284 by not treating the home of a person by not acknowledging their potency we are creating another ill on top of whatever natural struggle they might have 
+ted_769#285 we are effectively grading someone's worth to our community 
+ted_769#286 so we need to see through the pathology and into the range of human capability 
+ted_769#287 and most importantly there is a partnership between those perceived efficiencies and our greatest creative ability 
+ted_769#288 so it's not about devaluing or negating needs more trying times is something we want to avoid or sweep under the rug benn said to find those opportunities wrapped in the adversity 
+ted_769#289 maybe the idea i want to put out there is not so much overcoming adversity edited opening ourselves up to it embracing it grappling with it for you the wrestling term maybe even dancing with it 
+ted_769#290 and perhaps if wi fi adversity as natural consistent and youthful were left burdened by the presence of it 
+ted_769#291 we celebrate the two hundred birthday of charles darwin and it was one hundred and fifty years ago when writing about evolution the darwin illustrated i think a truth about the human character 
+ted_769#292 to paraphrase it's not the strongest of the species survive nor that the most intelligent that survived it is the one that is most adaptable to change 
+ted_769#293 conflict the genesis of creation 
+ted_769#294 from darwin's work amongst others we can recognize that the human ability to survive and flourish is driven by that the struggle of the human spirit through conflict into transformation 
+ted_769#295 again transformation adaptation is our greatest human scale 
+ted_769#296 and perhaps until were tested will note were made of 
+ted_769#297 and maybe that's with adversity gives us a sense of self defense of our own power 
+ted_769#298 so we can give ourselves a gift 
+ted_769#299 we can reimagine adversity as something more than just tough times 
+ted_769#300 maybe we can theater change 
+ted_769#301 diversity is just change that we haven't adapted ourselves to yet 
+ted_769#302 i think the greatest adversity that we've created for ourselves is this idea of normal food 
+ted_769#303 it was normal 
+ted_769#304 but there's no normal there's common there's typical there's no normal and would you want to meet that poor beige person if eggs with it and i think that 
+ted_769#305 we can change the paradigm from one of achieving normal c to one impossibility or potency even a little bit more dangerous we can release the power of so many more children and invite them to engage they are rare and valuable abilities with the community 
+ted_769#306 anthropologists tell us that the one thing we humans have always required of our community members is to be of use to be able to contribute 
+ted_769#307 self evident that neanderthals sixty thousand years ago carried their elderly and those with serious physical injury and perhaps it's because the life experience of survival of these people proved a value to the community they didn't beauties people as broken and useless they were seen as rare and 
+ted_769#308 a valuable few years ago i within a food market in the town where i grew up in that red zone and north eastern pennsylvania and i was standing over a bushel of tomato through the summertime i had short 
+ted_769#309 this guy and his voice behind may say well if it isn't aimee mullins i turn around and it's an older man 
+ted_769#310 we have no idea who he is 
+ted_769#311 i said i'm sorry sir i don't have we met 
+ted_769#312 you wouldn't remember meeting me 
+ted_769#313 when we met i was delivering you from your mother's womb oh that guy 
+ted_769#314 but of course actually it did click 
+ted_769#315 with mammal doctor came a man that i had only known about my mother stories of that day because of course typical fashion i arrived late for my birthday by two week 
+ted_769#316 so my mother's prenatal position had gone on vacation for the man who delivered me with a complete stranger to my parents 
+ted_769#317 because i was born without fibula bone and had turned it into a few toes in this burden if you've chosen that he had to be the bearer the stranger had to be the bearer of bad news 
+ted_769#318 he said to me i had to give this prognosis to your parents that you would never walk and you would never have the kind of mobility that other kids have or any kind of life of independence and you've been making a liar out of me ever since the extraordinary 
+ted_769#319 but he said he had saved newspaper clipping throughout my whole childhood whether winning a second grade spelling bee marching with the girl scouts and the halloween parade winning my college scholarship or any of my sport victories and he was using it and integrating it into teaching rather than students med students from hahnemann medical school and hershey medical school 
+ted_769#320 he called this part of the course the x factor that has the potential of the human will 
+ted_769#321 no prognosis can account for how powerful it can be in as a determinant in the quality of someone's life 
+ted_769#322 dr king went on to tell me that he could in my experience and left repeatedly told otherwise and even if given a monomer modicum of support if left to their own devices a child will achieve 
+ted_769#323 dr king made that shift in thinking 
+ted_769#324 he understood that there's a difference between the medical condition and what someone might do with it 
+ted_769#325 and there's been a shift in my thinking over time and that if you would ask me at fifteen years old if i would have traded prophetically for flesh and bone i wouldn't have hesitated for a second 
+ted_769#326 i aspired to that kind of normalcy back then 
+ted_769#327 he asked me today i'm not so sure 
+ted_769#328 because of the experiences i've had with them not in spite of the experiences i've had with them 
+ted_769#329 perhaps the shift in me and happened because i've been exposed to more people who have opened doors for me than those who have put lid and cast shadows on me 
+ted_769#330 all you really need is one person to show you the epiphany of your own power and you're off 
+ted_769#331 if you can hand somebody the key to their own power the human spirit is so receptive if you can do that an open a door for someone at a crucial moment you are educating them in the best sense 
+ted_769#332 if you're teaching them to open doors for themselves 
+ted_769#333 back to the exact meaning of the word educate comes from the root word i'd use it mean to bring forth what is within to bring out potential so again which potential do we want to bring out 
+ted_769#334 it was a case study done in one thousand nine britain when they were moving from contrary grammar schools to comprehensive school 
+ted_769#335 called the streaming trials 
+ted_769#336 call it tracking here in the fate 
+ted_769#337 separating students from a b c d and so on 
+ted_769#338 the asian get the top our curriculum the best teachers etc 
+ted_769#339 he took over a three month period d level students gave made told them they re told them they were bright and at the end of the three month period they were performing at a level 
+ted_769#340 and of course the heartbreaking flip side of the study is that they took the a student and told them they were deed and that's what happened at the end of that three month period 
+ted_769#341 for those who are still around and school the draw people had dropped out 
+ted_769#342 a crucial part of the of the case study with that but teachers were duped too 
+ted_769#343 with teachers that now with which have been made 
+ted_769#344 they were simply told these are the eternity student and that's how they went about teaching them and treating them 
+ted_769#345 so i think that the only true disability in the crushed spirit a spirit that's been crushed doesn't have hope it doesn't he beauty and no longer have our natural childlike curiosity and our innate ability to imagine 
+ted_769#346 ted we can bolster human spirit to keep hope to see beauty in themselves and others to be curious and imaginative then we are truly using our power well 
+ted_769#347 when a spirit has those qualities we are able to create new realities and new ways of being 
+ted_769#348 and i'd like to leave you with a poem by the fourteenth century persian poet named hafetz and my friend jack them was told me map and a poem is called the god who only knows for work every child has known god not the god of named not the god of don't but the god who only knows forward and keeps repeating them saying come down with me 
+ted_769#349 thank you 
+ted_779#350 he talks about happiness 
+ted_779#351 somebody count the number of books with happiness in the title published in the last five years and they gave up after about forty and there were many more 
+ted_779#352 is a huge wave of interest in happiness among researchers 
+ted_779#353 there 's a lot of happiness coaching 
+ted_779#354 if everybody would like to make people happier 
+ted_779#355 but in spite of old with a lot of work there are several cognitive traps that will make it almost impossible to think straight about happiness 
+ted_779#356 my talk today will be mostly about these cognitive trucks 
+ted_779#357 supplies to lay people thinking about their own happiness amid the price of scholars thinking about happiness because it turns out we have just as much stuff as anybody else 
+ted_779#358 the first of these trap is a reluctance to admit complexity 
+ted_779#359 it turns out that the word happiness is just not a useful work anymore because we apply to too many different things 
+ted_779#360 i think there is one particular meaningful to which we might restricted but by and large this is something that will have to give up and will have to adopt a more complicated view of well being is 
+ted_779#361 second trap as a confusion between experience with memory basically it's between being happy in your life and being happy about your life were happy with your life 
+ted_779#362 those are two very different concept that both slumped in the notion of happiness 
+ted_779#363 one third is focusing illusion and the unfortunate fact that we can't think about any circumstance that affects will be without distorting its importance 
+ted_779#364 this is a real cognitive trap 
+ted_779#365 it 's just no way of getting it right 
+ted_779#366 now i'd like to start with an example of somebody who had a question and answer session after one of my lectures reported a story and that with a story he said he had been listening to a symphony and it was absolutely glorious music and at the very end of the recording there was a dreadful screeching sound 
+ted_779#367 then he added reading quite emotionally it ruined the whole experience 
+ted_779#368 he hadn't had ruined the memory of the experience 
+ted_779#369 we have had experience 
+ted_779#370 he had had twenty minutes a glorious music 
+ted_779#371 accounted for nothing because he was left with a memory the memory was ruined and the memory was all that he had gotten key 
+ted_779#372 when this was telling us really is that we might be thinking of ourselves and the other people in terms of two selves 
+ted_779#373 reason experiencing so who lives in the present and knows that present capable of reliving the past the basically it has only the present 
+ted_779#374 experiencing the doctor approaches you know when the doctor us does it now and i thought you hear him there is a remembering cell and remembering self as the one that keep score and maintains the story of life and it's the one that the doctor approaches and asking the question how have you been feeling lately or how was your trip to albania or something like that 
+ted_779#375 so those are two very different entities the experiencing self and get and remembering self and getting confused between them is part of the mess about the notion of happiness 
+ted_779#376 now the remembering self is a storyteller 
+ted_779#377 that really starts with the basic response a little memory starts immediately we don't only tell stories when we set out to tell stories 
+ted_779#378 memory tells us stories that is what we get to keep from our experiences is a story 
+ted_779#379 let me begin with one example 
+ted_779#380 wilson 's an old buddy 
+ted_779#381 is an actual patients undergoing a painful procedures 
+ted_779#382 it won't go into detail 
+ted_779#383 it 's no longer painful these days but it was painful windows when the study was run in the one thousand nine hundred and ninety s 
+ted_779#384 report on their pain every sixty seconds 
+ted_779#385 occupations those other their recordings 
+ted_779#386 who are us who have them suffered more and it's a very easy question 
+ted_779#387 clearly patient be suffered more colonoscopy was longer and every minute of pain that patient he had patient be had and more 
+ted_779#388 but now there is another question how much in these patients think they suffered and here and surprise surprise is that patient a had a much worse memory other colonoscopy than patient be the stories of the colonoscopy is different and because a very critical part of the story is how it ends and neither of these stories is very inspiring a great but but one of them is this thing but one of them is distinctly worse than the other 
+ted_779#389 the one that is worse in the one where pain was at its peak at the very end it's a bad story 
+ted_779#390 how do we know that 
+ted_779#391 because we asked these people after their colonoscopy and much later to how bad was the whole thing in total and it was much worse for a than four b in memory 
+ted_779#392 this is a direct conflict between the experiencing self and remembering stuff 
+ted_779#393 from the point of view the experiencing self clearly be had a worse time 
+ted_779#394 what you could do with patient a and we actually ran clinical experiments and it has been done and it does work you could actually extend a colonoscopy a patient a light was keeping the children without jiggling it too much 
+ted_779#395 that will cause the patient to suffer but just a little and much less than before 
+ted_779#396 if you do that for a couple of minutes you have made the experiencing self of patient a will self and you have made the remembering self of patient a a lot better off because now you have endowed patient a with a better story about his experience 
+ted_779#397 what defines a story 
+ted_779#398 that is true of the stories that memory delivers for us and it's also true of the stories that we make up 
+ted_779#399 what defines a story of changes significant moments and envy 
+ted_779#400 if things are very very important and in this case the ending dominate 
+ted_779#401 be experiencing self lives a life continuously 
+ted_779#402 it has moments of experience one after the other 
+ted_779#403 you can ask what happens to these moments 
+ted_779#404 the answer is really straightforward their last forever 
+ted_779#405 most of the moments of my life when i calculated the psychological president is said to be about three seconds long that means that you know and inner life they are about six hundred million of them in a month there were about six hundred thousand most of them don't leave 
+ted_779#406 race most of them are completely ignored by the remembering 
+ted_779#407 and yet somehow you get the sense that they should count that what happens during these moments of experience is our life 
+ted_779#408 the finite resource that we're spending while we're on this earth 
+ted_779#409 how to spend it would seem to be relevant but that is not the story that are remembering self keeps for us 
+ted_779#410 so we hadn't remembering self and the experiencing cell and we are really quite distinct 
+ted_779#411 the biggest difference between will isn't the handling of time 
+ted_779#412 from the point of view of experiencing so if you have a vacation and the second week is just as good as the first then the two week vacation is twice as good as the one week vacation 
+ted_779#413 it 's not the way it works adult for the remembering said 
+ted_779#414 for the remembering self a two week vacation is barely better than the one week vacation because there are no new memories added 
+ted_779#415 we have not changed the story 
+ted_779#416 in this way time is actually the critical variable that distinguishes are remembering self from are experiencing so time has very little impact on the story 
+ted_779#417 now the remembering south as more than remember and tell stories 
+ted_779#418 it 's actually the one that makes decisions because if you have a patient who has had say to colonoscopies with two different surgeons and is deciding which allow them to choose than the one that chooses the one that has yet another memory that is less bad and that's the surgeon that will be chosen 
+ted_779#419 experiencing so had no voice in this choice 
+ted_779#420 we actually don't choose between experiences we choose between memories of experiences 
+ted_779#421 and even when we think about the future we don't think about future normally as experiences 
+ted_779#422 with think of our future as anticipated memories 
+ted_779#423 basically you can look at this as a tyranny of remembering self and you can think of the remembering self sort of dragging the experiencing selves to experience lose that experience in itself doesn't need 
+ted_779#424 have the sense that when we go on vacations this is very frequently the case that is that we we go on vacations to a very large extent in the service although remembering so 
+ted_779#425 this was a bit hard to justify it 
+ted_779#426 how much do we consume all memories 
+ted_779#427 is one of the explanation that has given for the dominance of remembering slow 
+ted_779#428 when i think about that i think about a vacation we had in antarctica a few years ago which was clearly the best vacation at the heart and i think of it randomly often relative to how much i think of other vacations 
+ted_779#429 and i'd probably have consumed my memories of that three week trip i would say for about twenty five minutes in the last four years 
+ted_779#430 if i had them will open the folder with a six hundred pictures in it i would have spent another hour 
+ted_779#431 that 's three weeks and that is that most an hour and a half 
+ted_779#432 there seems to be a discrepancy 
+ted_779#433 i may be a bit extreme in how little appetite i have for consuming memories but even if you do more of us there is a genuine question why do we put so much weight on memory relative to the way that we put on experiences 
+ted_779#434 so i want you to think about a thought experiment 
+ted_779#435 imagine that for your next vacation you know that at the end of the day the vacation all your pictures will be destroyed and you'll get an amnesic drug should let you won't remember it 
+ted_779#436 would you choose the same location and and if you would choose a different location there is a conflict between the two cells and you need to think about how to adjudicate that conflict and it's actually not at all obvious because if you think in terms of time then you get one answer and if you think in terms of of memories you might get another answer 
+ted_779#437 why do we pick them up vacations we do is a problem that confronts us with a choice between the two selves 
+ted_779#438 and now the two cells ring up to notions of happiness 
+ted_779#439 really two concepts of happiness that we can apply one percent 
+ted_779#440 so you can ask how happy as the experiencing self and when you would ask how happy are the moments and experiencing self life and they're all happiness for a moment is a fairly complicated process 
+ted_779#441 what are the emotions that can be measured 
+ted_779#442 and by the way now we are capable of getting pretty good idea of the happiness of the experiencing self over time 
+ted_779#443 if you ask for the happiness of remembering so it's a completely different thing 
+ted_779#444 it 's not about how happily a person lives 
+ted_779#445 it 's about how satisfied are pleased the person is when that person thinks about her life very different notions anyone who doesn't distinguish those notions is going to mess up the study of happiness and i belong to a crowd of students of well being who'd been messing up the study of happiness for a long time in precisely this way 
+ted_779#446 the distinction between the happiness of the experiencing self and the satisfaction of remembering self has been recognized in recent years and there are now efforts to measure the two separately 
+ted_779#447 gallup organization has a world poll with more than half a million people have been asked questions about what they think of their life and about their experiences and there have been other efforts along those lines 
+ted_779#448 so in recent years we have begun to learn about the happiness of the two selves 
+ted_779#449 the main lesson i think that we have learned that there really different 
+ted_779#450 no satisfied somebody is with their life and that really doesn't teach you much about how happily they are living their lives and lifeless 
+ted_779#451 just to give you a sense of the correlation of the correlation is about point five 
+ted_779#452 what that means is a few met somebody and you were told or his father is six feet tall how much would you know about his height 
+ted_779#453 well you would know something about his height but there's a lot of uncertainty 
+ted_779#454 have that much uncertainty if i tell you that somebody rank their life eight on a scale of ten you'll have a lot of uncertainty about how happy they are with their experiencing cell 
+ted_779#455 the coronation israel 
+ted_779#456 we know something about what controls satisfaction with happiness itself 
+ted_779#457 we know that money is very important goals are very important 
+ted_779#458 we know that happiness is mainly being satisfied with people that can be like spending time with people that we like 
+ted_779#459 other pleasures that this is dominant 
+ted_779#460 so if you want to maximize the happiness of the two cells you are going to end up doing very different things 
+ted_779#461 but the bottom line of would have said here is that we really should not think of happiness at as a substitute for wellbeing 
+ted_779#462 it 's a completely different notions 
+ted_779#463 and now very quickly another reason we cannot think straight about happiness is that we do not tend to the same things when we think about life and we actually live 
+ted_779#464 so if you ask the simple question of how happy people are in california you're not going to get to the correct answer 
+ted_779#465 when you ask that question you think people must be happier in california if you live in ohio and and what happens is when you think about living in california you are thinking of the contrast between california and other places and that contrasts says and climate 
+ted_779#466 well it turns out the climate is not very important to the experiencing self and is not even very important to the reflective self that decides how happy people are 
+ted_779#467 but now because the reflective self was in charge you may end up some people may end up moving to california 
+ted_779#468 sort of interesting to trace what is going to happen to people who moved to california and the hope of getting happier 
+ted_779#469 well they're experiencing self is not going to get happier we know that but one thing will happen they will think they are happier because when they think about it they'll be reminded of how horrible the weather was in ohio and they wouldn't feel they made the right decision 
+ted_779#470 it 's very difficult to think straight about well being and i hope i have given you a sense of how difficult it is 
+ted_779#471 possibly 
+ted_779#473 thank you so much now when we were on the phone a few weeks ago you mentioned to me that there was quite an interesting results came out of that gallup survey 
+ted_779#474 something that you can share since you do have a few moments left 
+ted_779#475 sure i think the most interesting result that we found in the gallup survey is a number which we absolutely did not expect to find 
+ted_779#476 we found that with respect to the happiness of experiencing so when we looked at how in healing vary with income and it turns out that the lower income of sixty thousand dollars a year for americans and that's a very large sample of americans like six hundred thousand so it's a lovely and presented the sample below named come a six hundred thousand 
+ted_779#477 colors 
+ted_779#478 fifty thousand sixty thousand sixty thousand sixty thousand dollars a year people are unhappy 
+ted_779#479 progressively unhappy at the poorer they get above that 
+ted_779#480 we get an absolute the flat line 
+ted_779#481 rarely seen line so flat clearly what is happening is money does not buy you experiential happiness but lack of money suddenly by their misery and weekends 
+ted_779#482 a measure that misery very very clearly in terms of the other self the remembering 
+ted_779#483 you get a different story the more money 
+ted_779#484 the most satisfied 
+ted_779#485 it does not hold for emotion but the whole american endeavor is about 
+ted_779#486 life liberty and the pursuit of happiness people took seriously that finding it seems to turn upside down everything we believe about life 
+ted_779#487 example taxation policy and so forth is there any chance politician the country generally would take a finding that seriously 
+ted_779#488 public policy based on it you know i think that the real recognition of the role 
+ted_779#489 with happiness research and public policy the recognition is going to be slow in the united states no question about that but in the uk it is happening 
+ted_779#490 in other countries it is happening people are recognizing that they ought to be thinking of policy when of happiness 
+ted_779#491 when they think of public policy it's going to take a lot and it's not going to and people are going to debate whether they want to study experience happiness or whether they want to study life revaluation so we need 
+ted_779#492 to have that debate fairly soon how to enhance happiness goes very different ways depending on how you think on whether you think of the remembering self 
+ted_779#493 but think of experiencing so this is going to influence policy 
+ted_779#494 in years to come in the united states efforts are being made to measure 
+ted_779#495 and the experience happiness of the population this is going to be i think within the next decade 
+ted_779#496 part of napkins statistics that issue well or at least should be the most interesting policy discussion 
+ted_779#497 crack over the next few years now 
+ted_779#498 so much for inventing 
+ted_783#499 can leave you with one big idea today it's that the whole of the data in which we consume is greater than the sum of the parts and instead of thinking about information overload what i'd like you to think about is how we can use information so that patterns pop and we can see trends that would otherwise be invisible 
+ted_783#500 so what we're looking at right here's a typical mortality chart organized by age 
+ted_783#501 this tool that i'm using here is a little experiment 
+ted_783#502 called pivot with pivot what i can do is i can choose to filter on one particular cause of death say accidents 
+ted_783#503 right away i see that as a different pattern that emerges 
+ted_783#504 because in the mid air i hear people are their most active and over here though their most frail 
+ted_783#505 we can step back out again and then reorganize the data by cause of death seeing that circulatory diseases and cancer or the usual suspects but not for everyone 
+ted_783#506 we go ahead and we filter by age say forty years or less we see that accidents are actually the greatest cause of the people have to be worried about 
+ted_783#507 drawn to that it's especially the case for 
+ted_783#508 so you get the idea that viewing information during data in this way is a lot like swimming and then living information infographic 
+ted_783#509 if we can do this for raw data why not do it for content as well 
+ted_783#510 so what we have right here is the cover of every single sports illustrated ever produced it's all here it's on the web 
+ted_783#511 you can go back to your rooms and try this after my talk 
+ted_783#512 with two that you can drill into a decade 
+ted_783#513 you can drill went to a particular year 
+ted_783#514 big jump right into a specific issue 
+ted_783#515 so i'm looking at it as i see the athletes that have appeared on this issue the sports lance armstrong fan so i'll go ahead and click on that which reveals for me all the issues in which lance armstrong has been apart 
+ted_783#516 applause 
+ted_783#517 now if i want to just kind of take a peek at these on weight think well what about taking a look at all of cycling so i can step back and expand on that 
+ted_783#518 when she greg mom now 
+ted_783#519 so you get the idea that when you navigate over information this way going narrow broader backing and backing out you're not searching are not browsing 
+ted_783#520 we're doing something it's actually a little bit different 
+ted_783#521 in between we think it changes the way information can be used 
+ted_783#522 so i want to extrapolate on this idea with something a little crazy 
+ted_783#523 what we've done here is we've taken every single wikipedia page every reduced it down to a little summary 
+ted_783#524 so the summary consists of just a little synopsis an icon to indicate the topical area that it comes from 
+ted_783#525 only showing the top five hundred most popular wikipedia page is right here 
+ted_783#526 but even in this limited view we can do a lot of things 
+ted_783#527 right away we get a sense of what are the topical domains that our most popular and wikipedia 
+ted_783#528 i'm going to go ahead and select government 
+ted_783#529 now having an elected government i can now see that the wikipedia categories that was frequently correspond to that our time magazine people of the year 
+ted_783#530 so this is really important because this is an insight that was not contained within any one wikipedia page it's only possible to see that and so when you step back and look at all of them 
+ted_783#531 looking at one of these particular summaries i can then drill into the concept of time magazine person of the year bringing up all of them 
+ted_783#532 so looking at these for evil eye can see that the majority come from government some have come from natural sciences some fewer still have come from business there's my boss and one has come from music 
+ted_783#533 and interestingly enough bano there's also ted prize winner 
+ted_783#534 so we can go jump and take a look at all the ted prize winners 
+ted_783#535 cc were navigating the web for the first time as if it's actually a wet not from page to page but at a higher level of abstraction 
+ted_783#536 i want to show you one other thing that may catch you a little bit by surprise 
+ted_783#537 just showing the new york times website here 
+ted_783#538 so pivot this application i don't want to call it a browser it's really not a browser but you can view web pages with it and we bring that zuma bull technology to every single web page like this 
+ted_783#539 so i can step back top right back into a specific section 
+ted_783#540 the reason why this is important because by virtue of viewing web pages in this way i can look at it might hire browsing history in the exact same way 
+ted_783#541 so i can drill into what i've done over specific time frames 
+ted_783#542 here in fact is the state of all the demo that i just gave 
+ted_783#543 i can replace some stuff that i was looking at earlier today 
+ted_783#544 and if i want to step back and look at everything i can slice and dice my history perhaps by my search history here i was doing some nepotistic searching looking for being over here for live labs to have it 
+ted_783#545 from these i can drill into the web pages and just launched them again 
+ted_783#546 one metaphor repurposed multiple times and in each case it makes the whole greater than the sum of the parts with the data 
+ted_783#547 so right now in this world we think about data is being discouraged 
+ted_783#548 we talk about the curse of information overload 
+ted_783#549 we talk about drowning and data 
+ted_783#550 what if we can actually turn that upside down and turn the web upside down so that instead of navigating from one thing to the next we get used to the habit of being able to go from many things to many things and then being able to see the patterns that were otherwise hit 
+ted_783#551 we can do that then instead of being trapped and data we might actually extract information 
+ted_783#552 instead of dealing with information we can tease out knowledge 
+ted_783#553 we get the knowledge that maybe there is wisdom to be found 
+ted_783#554 so with that i thank you 
+ted_785#556 i grew up on steady diet of science fiction 
+ted_785#557 in high school i took a bus to school an hour each way every day 
+ted_785#558 i was always absorbed in a book science fiction book which took my mind to other worlds and satisfied this in a narrative form this insatiable sense of curiosity that i had 
+ted_785#559 that curiosity also manifested itself in in the fact that whenever i wasn't in school i was i was out in the woods hiking and taking samples frogs and snakes and bugs and pond water and bring it back looking added under the microscope 
+ted_785#560 it was on israel sides 
+ted_785#561 it was all about trying to understand understand the world understand the limits of of possibility 
+ted_785#562 my love of science fiction actually seem to be mirrored in the world around me because what was happening this was in the late sixties when we were we were going to the moon we were exploring the deep oceans 
+ted_785#563 jacques cousteau was coming into our living rooms with his amazing specials that showed us animals and places and wondrous world that we could never really have previously imagined 
+ted_785#564 so that seemed to resonate with the whole science fiction part of it 
+ted_785#565 i was an artist i could draw and paint and and i found that because there were no video games and the saturation of cg movies and all of this imagery in the media landscape i had to create these images of my head 
+ted_785#566 we all did as kids having to read a book and through the authors description put something on the on the screen the movie screen in our heads 
+ted_785#567 and so my response to this was to paint to draw alien creatures alien worlds robots spaceships all that stuff 
+ted_785#568 it was endlessly getting busted in math class doodling behind the behind the textbook 
+ted_785#569 and that was their creativity had to have had to find its outlet somehow 
+ted_785#570 an interesting thing happened jacques cousteau shows actually got me very excited about the fact that there was an alien world right here on earth 
+ted_785#571 it might not really go to an alien world on a spaceship someday lead that seem pretty on pretty darn unlikely 
+ted_785#572 but i could that was a world i could really go to right here on earth that was as as rich and exotic as anything that i had imagined from reading these books 
+ted_785#573 so i decided i was going to become a scuba diver at the age of fifteen 
+ted_785#574 the only problem with that was that i lived in a little village in canada six hundred miles from the nearest ocean 
+ted_785#575 but i didn't let that taught me 
+ted_785#576 i pestered my father until he finally found a scuba class in buffalo new york right across the border from where we live 
+ted_785#577 i actually got certified in a pool letter y m c in the dead of winter in buffalo new york 
+ted_785#578 i didn't see the ocean a real ocean for another two years until we feel we moved to california 
+ted_785#579 since then in the intervening forty years i've spent about three thousand hours underwater and five hundred hours of that was 
+ted_785#580 submersibles and i've learned that that that that deep ocean environment and even the shallow oceans are so rich with with amazing life that really is beyond beyond our 
+ted_785#581 nature's imagination is so so boundless compared to our own meager human imagination 
+ted_785#582 still to this day stan an absolute awe of what what i see when i make these dives 
+ted_785#583 i love affair with the ocean as is ongoing and and just as strong as it ever was 
+ted_785#584 but when i chose a career as an adult it was filmmaking 
+ted_785#585 that seemed to be the best way to reconcile this urge i had to tell stories with my or my urges to create images 
+ted_785#586 when i was as a kid constantly drawing comic books and so on 
+ted_785#587 filmmaking was the way to put put pictures and stories together and that made sense 
+ted_785#588 of course the stories that i chose to tell where science fiction stories terminator aliens than the abyss and with the abyss i was putting together my love of underwater and diving with filmmaking 
+ted_785#589 so merging the two passions 
+ted_785#590 something interesting came out of the abyss which was that to solve a specific narrative problem on that film which was to create this kind of liquid water creature we actually embraced computer generated animation 
+ted_785#591 and this this resulted in the first soft surface character cg animation that was ever in a movie 
+ted_785#592 and i'm a little children making money barely broke even than i should say i witnessed something amazing which is that the the audience the global audience was mesmerized by this apparent magic 
+ted_785#593 its arthur clarke law than any sufficiently advanced technology is indistinguishable from magic 
+ted_785#594 we're seeing something magical 
+ted_785#595 so that that that got me very excited i thought wow this is this is something that needs to be embraced into the cinematic art so with terminator two which was my next film we took that much farther 
+ted_785#596 working with with i am we created the liquid metal dude in that show 
+ted_785#597 success hung in the balance on whether that would work 
+ted_785#598 and it did and we created magic again and we had the same result with an audience although we didn't make a little more money on that one 
+ted_785#599 so dry line through those those two two dots of experience came to this is going to be a whole new world this is a whole new world of creativity for four film artists 
+ted_785#600 so i started a company with sandwiched in my good friend sandwiched in who is the premier makeup and creature designer at that time and it was called digital domain 
+ted_785#601 the concept of the company was that we would leapfrog past the kind of analog processes of of optical printers and so on and we would go right to digital production 
+ted_785#602 we actually did that gave us a competitive advantage for a while 
+ted_785#603 what we found ourselves lagging in the mid nineties in the creature and character design stuff that we are actually founded the company to do 
+ted_785#604 so i wrote this piece called avatar which was meant to absolutely push the envelope of visual effects of cg effects beyond with realistic human emotive character generated in cg and the main characters lobbyists eg and the world would be in cg 
+ted_785#605 the envelope pushed back and i was told by the folks at my company that we weren't going to be able to do this for a while 
+ted_785#606 so i showed that and i made this other movie about a big ship that six him i wanted to push it to the studio is romeo and juliet on a ship it's going to be this epic romance passionate film secretly what i wanted to do was i wanted to dive to the real wreck of titanic and that's why i made the move and that's the truth 
+ted_785#607 studio didn't know that 
+ted_785#608 but i convinced 
+ted_785#609 i said i said we're going to dive to the wreck we're going to film it for real will be using it in the opening of the film 
+ted_785#610 the really important 
+ted_785#611 great marketing hook and i taught them into funding an expedition 
+ted_785#612 sounds crazy but this goes back to the theme about your imagination creating a reality 
+ted_785#613 actually created a reality were six months later i find myself in a russian submersible two and a half miles down in the north atlantic looking at the real titanic through through viewpoint 
+ted_785#614 a movie not hd for real now that that blew my mind 
+ted_785#615 it took a lot of preparation we had to build cameras and lights and all kinds of things 
+ted_785#616 but it struck me how much this dive these deep dives was like a like a space mission where it was it was highly technical and required enormous planning 
+ted_785#617 getting this capsule you go down to this dark hostile environment where there's no hope of rescue if you can't get back by yourself 
+ted_785#618 and i thought wow 
+ted_785#619 unlike living in a science fiction movie this is really cool 
+ted_785#620 and so i really got bitten by the bug of deep ocean exploration 
+ted_785#621 of course the curiosity and science component of it it was everything 
+ted_785#622 it was adventure it was curiosity and imagination 
+ted_785#623 and it was an experience that hollywood couldn't give me 
+ted_785#624 i can imagine a creature and create a visual effect for it 
+ted_785#625 but i couldn't imagine what i was seeing out that window 
+ted_785#626 as we did some of our subsequent expeditions i was seeing creatures and hydrothermal vents and sometimes things that i had never seen before sometimes things that no one had seen before that actually we're not described by science at the time that we saw them and image 
+ted_785#627 i was completely smitten by this and had to do more 
+ted_785#628 so i actually made a kind of curious decisions 
+ted_785#629 after the success of titanic i said ok you know i'm going to park my day job as a hollywood movie maker and i'm going to go be a full time explorer for a while and so we started planning these these expeditions 
+ted_785#630 in rwanda going to the bismarck and exploring it was with robotic vehicle 
+ted_785#631 we went back to the titanic record 
+ted_785#632 we took little box that we had created its spooled a fiber optic 
+ted_785#633 the idea was to go in and do an interior survey of that ship which had never been done 
+ted_785#634 but he never looked inside the record 
+ted_785#635 it didn't have the means to do it so we created technology to do it 
+ted_785#636 so here i am now on the deck of titanic sitting in a submersible and looking out at planks that look much like this where i knew that the that the band had played 
+ted_785#637 when i'm trying a little robotic vehicle through the through the corridor of the ship 
+ted_785#638 when i say i'm i'm operating in my mind is in the vehicle 
+ted_785#639 i felt like i was physically present inside the shipwreck titanic 
+ted_785#640 and it was the most surreal kind of deja vu experience i've ever had because i would know before i turned a corner what was going to be there before the lights of the vehicle actually revealed it because i had walked the set from lunch and we were making the movie 
+ted_785#641 and the set was based as an exact replica on the blueprints of the ship 
+ted_785#642 so there was this absolutely remarkable experience 
+ted_785#643 and it really made me realize that tell the telepresence experience that you actually can have these robotic avatars than your consciousness is injected into the into the vehicle into this other form of existence 
+ted_785#644 and it was really really quite profound 
+ted_785#645 maybe a little bit of a glimpse took to what might be happening some decades out as as we start to have cyborg bodies for exploration of for other means and in many sort of post human futures that i can imagine as a science fiction fan 
+ted_785#646 so having done these these expeditions and really beginning to appreciate what was down there such as at the at the deep ocean vents where we had these amazing amazing animals they're basically aliens right here on earth 
+ted_785#647 they live in an environment of chemosynthesis 
+ted_785#648 they don't survive on sunlight based system the way we do 
+ted_785#649 so you're seeing animals that are living next to a five hundred degree centigrade water plumes 
+ted_785#650 when you think they can't possibly exist 
+ted_785#651 but at the same time and i was getting very interested in space science as well again it's the science fiction influence as a kid 
+ted_785#652 i wound up getting involved with the space community really involved with with nasa sitting on the nasa advisory board planning actual space missions going to russia going through the pre cosmonaut biomedical protocols and all these sorts of things to actually go and fly to the international space station with our three d camera systems and this was fascinating but what i was doing was bringing space scientist with us into the deep 
+ted_785#653 and taking them down so that they had access astrobiologists planetary scientists people who are interested in these extreme file environments taking them down to the events and letting them see and take samples and test instruments and so on 
+ted_785#654 so here we were making documentary films but actually doing science and actually doing spaces 
+ted_785#655 completely close the loop between being the science fiction fan as a kid and doing this stuff for real 
+ted_785#656 along the way in this journey of discovery i learned a lot 
+ted_785#657 i learned a lot about science 
+ted_785#658 but i also learned a lot about leadership 
+ted_785#659 when you think directors got to be a leader leader of neon kept on the ship all that sort of thing 
+ted_785#660 really learn about leadership until i did these expeditions 
+ted_785#661 because i had a at a certain point say what am i doing out here 
+ted_785#662 what am i doing this 
+ted_785#663 what do i get out of it we don't make money at these damn shows 
+ted_785#664 we barely breakeven 
+ted_785#665 fame and 
+ted_785#666 people sort of think i went away between titanic and avatar and was buffing my nails someplace sitting at the beach 
+ted_785#667 made all these films made all these documentary films for a very limited audience 
+ted_785#668 and no shame no glory no money 
+ted_785#669 what are you doing 
+ted_785#670 doing it for the task itself for the challenge and the ocean is the most challenging environment there is for the thrill of discovery and for that strange bond that happens when a small group of people form a tightly knit team 
+ted_785#671 as we would do these things with ten twelve people working for years at a time sometimes at sea for for four to three months at a time 
+ted_785#672 that bond you realize that the most important thing is the respect that you have for them and that they have for you that you've done a task that you can't explain to someone else 
+ted_785#673 when you come back to the shore and you say well you know we had to do this and the fiber optic in the attenuation this and that all the all the technology of it and the difficulty to human performance aspects of working at sea you can't explain it to people 
+ted_785#674 instead think that maybe cops have people in combat that have gone through something together and they know they can never explained 
+ted_785#675 creates a blind creates a blunder of respect 
+ted_785#676 so when i came back to make my next movie which was avatar i try to apply that same principle of leadership which is that you respect your team and you earn their respect in return 
+ted_785#677 it really changed the dynamics 
+ted_785#678 so here i was again with a small team and in uncharted territory doing avatar coming up with new technology that didn't exist before tremendously exciting tremendously challenging and we became a family over a four and a half year period 
+ted_785#679 it completely changed how i do movies 
+ted_785#680 so people who commented on how you brought back the ocean organisms and put them on the planet pandora to me it was more of a fundamental way of doing business the process itself that changed as a result of that 
+ted_785#681 so what can we synthesize out of all this 
+ted_785#682 what are the lessons learned 
+ted_785#683 number one is curiosity 
+ted_785#684 the most powerful thing you own 
+ted_785#685 imagination is a force that can actually manifest a reality 
+ted_785#686 and the respect of your team is more important than all the laurels in the world 
+ted_785#687 and i have young filmmakers come up to me and saying give me some advice for doing this and i said don't put limitations on yourself 
+ted_785#688 other people will do that for you don't do it to yourself don't bet against yourself and and take risks 
+ted_785#689 nasa has this has this phrase that they like failure is not an option but failure has to be an option in art and an exploration because it's a leap of faith 
+ted_785#690 no important endeavor that required innovation was done without risk 
+ted_785#691 you have to be willing to take those risks 
+ted_785#692 so that's the thought i would leave you with is that in whatever you're doing failure is an option but fear is not 
+ted_785#693 
+ted_790#694 i know a lot of fish in my life i've loved only two at first one was that it was more like a passionate bear 
+ted_790#695 it was a beautiful fish flavorful textured midi a best seller on the menu 
+ted_790#696 what a fish even better it was farm raised to the supposed that highest standard of sustainability 
+ted_790#697 so you could feel good about selling 
+ted_790#698 within our relationship with its beauty for several months 
+ted_790#699 one day the head of the company call and ask that i speak at an event that the farm sustainability absolutely i said 
+ted_790#700 the company trying to solve what's become this unimaginable problem fresh chefs adam fish on our menus 
+ted_790#701 for the past fifty years we've been fishing the thieves like we clear cut forest 
+ted_790#702 it's hard to overstate the destruction 
+ted_790#703 ninety percent of large fish the ones we love the tuna is the halibut the salmon swordfish the collapse 
+ted_790#704 it was nothing left 
+ted_790#705 for better or for worse aquaculture fish farming part of our future 
+ted_790#706 a lot of arguments against the fish farms pollute most of them do anyway and their inefficient 
+ted_790#707 take tuna major drawback gotta he'd conversion ratio of fifteen to one 
+ted_790#708 it means that takes fifteen pound wild fish to get you won pound a farm to them not very sustainable doesn't taste very good either 
+ted_790#709 here finally was a company trying to do it right 
+ted_790#710 i wanted to support 
+ted_790#711 the day before the event i called the had a pr for the company let's call him down 
+ted_790#712 gonna get the facts right you guys are famous for falling so far out to sea you don't pollute 
+ted_790#713 right he said were so far out the way to my fish gets distributed that concentrated and then he added are basically a world unto ourselves at t conversion ratio 
+ted_790#714 two point five million he said best in the business 
+ted_790#715 web two point five to one great two point five 
+ted_790#716 sustainable proteins he said 
+ted_790#717 i said got off the plane 
+ted_790#718 marine i was lying in bed and i thought what the hell is unsustainable protein 
+ted_790#719 just before the event i called down i said now what are some examples of sustainable proteins 
+ted_790#720 and even now 
+ted_790#721 we would ask around 
+ted_790#722 when i got on the phone a few people in the company no one can give me a straight answer until finally i got on the phone with the head biologists 
+ted_790#723 call him down to the sea 
+ted_790#724 i said what are some examples of sustainable proteins 
+ted_790#725 mentioned some algae and some fish meals and then he said chicken palette the chicken pot 
+ted_790#726 he said yeah feathers skin bone meal scratched dried and processed food 
+ted_790#727 instead what percentage of your feed his chicken thinking in a two percent 
+ted_790#728 about thirty percent he said 
+ted_790#729 done what sustainable about eating chicken fish 
+ted_790#730 the long pause on the line and he said there are just too much chicken in the world 
+ted_790#731 i fell out of love with this fish not because some self righteous goody two shoes foodie 
+ted_790#732 actually i'm now at the moment and smooch because i swear to god after their conversation the fish tasted like chicken 
+ted_790#733 snack and fish are different kind of love story 
+ted_790#734 the romantic guide the kind where the more you get to know your fish you love the fish 
+ted_790#735 first aided at a restaurant in southern spain 
+ted_790#736 a journalist friend had been talking about this fish for a long time 
+ted_790#737 kind of set us up when it came to the table a bright almost shimmering white collar 
+ted_790#738 with chef had overcooked like twice over amazingly it was still delicious 
+ted_790#739 can make a fish taste good after it's been overcook 
+ted_790#740 so let's call him miguel actually his name is media and non needing cook the fish and he's not a chef at least in the way that you and i understand it 
+ted_790#741 biologists at that hour palmer 
+ted_790#742 the fish farm in the south western corner of spain 
+ted_790#743 the typical guadalquivir river 
+ted_790#744 until the nineteen eighties the farm was in the hands of the argentinian 
+ted_790#745 they raise beef cattle on what was essentially wetlands 
+ted_790#746 where did it by draining land 
+ted_790#747 they built this intricate theories of canals and they pushed water off the land and out into the river 
+ted_790#748 he couldn't make it work and economically 
+ted_790#749 ecologically it was a disaster 
+ted_790#750 like ninety percent of the birds which for this fight with a lot of birds 
+ted_790#751 so unlike and eighty two a spanish company with an environmental conscience purchased the land 
+ted_790#752 what did they do they were burst the flow of water 
+ted_790#753 we literally flick the switch 
+ted_790#754 pushing water out they use the channels to pull water back in the flooded the canal 
+ted_790#755 they created a twenty seven thousand acre fish farm bath mowat shrimp eel any in the process began and this company completely reversed ecological 
+ted_790#756 structure the farms 
+ted_790#757 i mean you've never seen anything like 
+ted_790#758 we stare out at a horizon that is a million miles away and all you see are flooded canals and pick rich marshland 
+ted_790#759 our they're not long ago with media 
+ted_790#760 an amazing guy like three parts charles darwin and one part crocodile dundee ok 
+ted_790#761 we are slogging through the wetland on panting and sweating a monarch to my knees and began with calmly conducting a biology lecture 
+ted_790#762 here is pointing out a rare black shoulder kite now he's mentioning the mineral need the phytoplankton 
+ted_790#763 hear hear you think the grouping pattern that remind him of the tanzanian giraffe 
+ted_790#764 it turns out miguel spent the better part of his career in the mccool me national park in africa 
+ted_790#765 i asked him how he became such an expert on fish 
+ted_790#766 fish i didn't know anything about fish 
+ted_790#767 from an expert in relationships and then he's off launching into more talk about rare birds and algae than the strange aquatic plants 
+ted_790#768 and don't get me wrong i was really fascinating you know the biotic community unplugged kind of thing 
+ted_790#769 is great but i was in love 
+ted_790#770 my head was swooning over that overcooked piece of delicious fish i had the night before 
+ted_790#771 so i interact in my family now what makes your fish case so good 
+ted_790#772 he pointed out the algae 
+ted_790#773 i now do the algae the phytoplankton the relationship to the main thing right but what are your fish eating and what's the feed conversion ratio 
+ted_790#774 we got down to count me it's such a rich system that the fish are hearing what the meeting in the wild 
+ted_790#775 the plant biomass the phytoplankton zooplankton it's what feed the fish 
+ted_790#776 the system is so healthy it's totally self renewing 
+ted_790#777 there is no feed 
+ted_790#778 if ever heard of a farm that doesn't feed animals 
+ted_790#779 later that day i was driving around this property with miguel and i asked them if they proclaim that seems so natural unlike any fish for elegantly farm i'd ever been and how do you measure success 
+ted_790#780 but at that moment this film director called for change 
+ted_790#781 we rounded the corner and for the most amazing sight thousands and thousands of pink flamingo a literal pink carpet for as far as you could see 
+ted_790#782 success and said look at their bellies pink their peak thing if they throw a computer 
+ted_790#783 media are the key thing on your fish 
+ted_790#784 he said we moved twenty percent of our fish and fish egg to birds i will last year this property had six hundred thousand birds on more than two hundred and fifty different species it's become today the largest now one of the most important private bird sanctuary in all 
+ted_790#785 in europe i said miguel isn't a thriving bird population like the last thing you want on a fish farm he said 
+ted_790#786 a fish farm but also bird sanctuary oh and by the way those flamingos they shouldn't even be there in the first place 
+ted_790#787 brewed in a town one hundred and fifty miles away where the soil conditions are better for building ness every morning they fly one hundred and fifty miles into the farm and every evening they fly one hundred and fifty miles back they do that because they're able to follow the broken white line of highway a ninety two no kidding i was imagining a march of the penguins thing so i looked at me 
+ted_790#788 and he said miguel de they fly one hundred and fifty miles to the farm and then do they fly one hundred and fifty miles back at night do they do that for the children 
+ted_790#789 he looked at me like i just called it a whitney houston song he said no they don't get the food better 
+ted_790#790 i didn't mention the skin or my beloved fish which was delicious and i don't like fish can i don't like it feared on a lanky christie 
+ted_790#791 that accurate tar like flavor 
+ted_790#792 i almost never cook with it 
+ted_790#793 when i tasted it at that restaurant in southern spain it did not at all like fishkin 
+ted_790#794 it tasted sweet and clean like you are taking a bite of the ocean 
+ted_790#795 i mention that to me down he nodded he said the skin and acts like a sponge the last defense pointing enters the body 
+ted_790#796 evolved to soak up impurities and then he added but our water has no impurities 
+ted_790#797 a foreign doesn't thetis fish farm the measures of success by the success of its predators 
+ted_790#798 then i realized when he said a foreign that has no impurities he made a big understatement because the water that flows through that foreign comes in from the guadalquivir river 
+ted_790#799 river that carries with it all the thing the rivers can carry these days chemical contaminants pesticide runoff 
+ted_790#800 when it works its way through the system and leave the water is cleaner than when an answer 
+ted_790#801 the system is so healthy and purify the water 
+ted_790#802 not just a farm and doesn't feed animals not just the farm that measures the help it success by the health of its predators but a foreign and literally a water purification plant and not just for those fish but for you and me as well 
+ted_790#803 because when that water leaves the dumps out into the atlantic 
+ted_790#804 drop in the ocean i know but i'll take it and so should you because they love story however romantic is also instructed 
+ted_790#805 you might say it's a recipe for the future of good food whether we're talking about bass or beef cattle 
+ted_790#806 what we need now is a radically new conception of agriculture one in which the food actually paid good money for a lot of people that's a bit too radical 
+ted_790#807 not released as foodies were lovers we love farmers markets we love small family farms we talk about local food we eat organic 
+ted_790#808 when you suggests these are the things that will ensure the future of good food someone somewhere stands up and says hey guy and i love pink flamingos but i don't see the world how are you going to feed the world 
+ted_790#809 can i be honest i don't love that question no not because we already produce enough calories to more than feed the world 
+ted_790#810 one billion people will go hungry today 
+ted_790#811 one billion that's more than ever before because of gross inequalities in distribution not punished 
+ted_790#812 i don't love this question because it's determine the logic of our food system for the last fifty years 
+ted_790#813 feed grain to herbivores pesticides the monocultures chemicals to soil chicken fish and all along agribusiness has simply as if we're feeling more people more cheaply how terrible could that me that's been the motivation for the justification it's been the business plan of american agriculture 
+ted_790#814 because it is a business in liquidation a bed nets that's quickly eroding ecological capital that make that very production possible 
+ted_790#815 it 's not a business and in agriculture 
+ted_790#816 our bread basket is threatened today not because the diminishing supply but because of diminishing resources 
+ted_790#817 by the latest combine and tractor invention but by fertile land now by pumps gripped by freshwater not by chain saws book by forests and not by fishing boats and nets but by fish in the sea 
+ted_790#818 one of the world let's start by asking how are you going to feed ourselves 
+ted_790#819 for better how can recreate conditions that enable every community to feed itself to do that don't look at the agribusiness model for the future 
+ted_790#820 it's really old and tired 
+ted_790#821 high on capital chemistry and machines and it never produce anything really good 
+ted_790#822 instead let's look to the ecological model 
+ted_790#823 the one that relied on two billion years of on the job experience 
+ted_790#824 to me go farmers like me go 
+ted_790#825 farms that aren't world unto themselves farms that restore instead of deplete farms that farm extensively instead of just intensively farmers that are not just producers but experts in relationships 
+ted_790#826 because they're the ones that are experts in flavor to 
+ted_790#827 if i'm going to be really honest there are better chef and i'll ever be 
+ted_790#828 now i'm okay with that because that's the future of good food it's gonna be delicious 
+ted_790#829 the 
+ted_792#830 for some time i have been interested in the placebo effect which might seem like an odd thing for a magician to be interested in unless you think of it in the terms that i do which is something fake is believed in enough by somebody that it becomes something real and other words sugar pills have a measurable effect in certain kinds of studies the placebo effect just because the person thinks that what's happening to them is a pharmaceutical or a some sort of a for pain management for example if they believe it enough there's a measurable effect on the body called the placebo effect 
+ted_792#831 something fake become something real because of someone's perception of it 
+ted_792#832 in order for us to understand each other i want to start by showing you a rudimentary very simple magic trick and i'm going to show you how it works 
+ted_792#833 utrecht it's been in every children's magic books since at least the nineteen fifties 
+ted_792#834 i learned it myself from cub scout magic in the nineteen seventies 
+ted_792#835 do for you and then i'll explain it 
+ted_792#836 then i'll explain why i explained it gets so here's what happens 
+ted_792#837 what you could examine 
+ted_792#838 hold the knife in my fist like this 
+ted_792#839 forget my sleeve back 
+ted_792#840 to make sure nothing goes up or down my sleeve i'm just going to squeeze my wrist right here 
+ted_792#841 that way you can see that at no time can anything travel as long as i'm squeezing their nothing can go up or down my sleep 
+ted_792#842 object of this is quite simple 
+ted_792#843 i'm going to open my hand and hopefully it fall as well my pure animal magnetism will hold the 
+ted_792#844 in fact it's held so tightly in place that i can shake it and the knife does not come off 
+ted_792#845 nothing goes up or down my sleeve no trickery 
+ted_792#846 when you can examine everything 
+ted_792#847 
+ted_792#848 this is a trick that i often teach two young children that are interested in magic because you can learn a great deal about deception by studying this very even though it's a very simple trick methodologically 
+ted_792#849 probably many of you in the room no district 
+ted_792#850 what happens is that 
+ted_792#851 hold the knife in my hands 
+ted_792#852 and i say i'm going to grab hold of my risk to make sure nothing goes up or down my sleeve that is a lie 
+ted_792#853 the reason i'm holding onto my wrist as because that's actually the secret of the illusion 
+ted_792#854 in a moment when my hand moves from facing you to being away from you this fingered here my index finger is just going to shift from where it is to a position like this nice what someone who didn't have a childhood 
+ted_792#855 so it goes like this from here 
+ted_792#856 as they move around my fingers shifts 
+ted_792#857 we can talk about why this is deceptive why you don't notice there are only three fingers down here because the mine and the way it processes information it doesn't count one two three groups them but that's not really what this is about right and then i open my hand 
+ted_792#858 obviously it's clinging there are not by animal magnetism but by chicanery index finger being there 
+ted_792#859 and then when i close my finger same thing as i moved back this motion covers moving back my fingers 
+ted_792#860 take the sand away you give the knife out there was a trick you can do for your friends and neighbors and effects 
+ted_792#861 what does that have to do with the placebo effect 
+ted_792#862 study a year or so ago that really blew my mind wide open 
+ted_792#863 i'm not a doctor or a researcher so this to me was an astonishing thing 
+ted_792#864 it turns out that if you administer a placebo in the form of a white pill that's like aspirin shaped just around white pill it has some certain measurable effect 
+ted_792#865 but if you change the form that you'll give the placebo in like you make a smaller pill and colour blue and stamp a letter into it it is actually measurably more effective 
+ted_792#866 even though neither one of these things has any pharmaceutical sugar pills 
+ted_792#867 but a white pill is not as good as a blue pill what that really flipped me out 
+ted_792#868 it turns out though that that's not even where it stops 
+ted_792#869 if you have capsules they're more effective than tablets in any form 
+ted_792#870 colored capsule that yellow on one end and written on the other is better than a white caps 
+ted_792#871 dosage has something to do with this 
+ted_792#872 pill twice a day is not as good as three pills but i don't remember this statistic nasa but the point is he's dosages have something to do with it 
+ted_792#873 in the form has some 
+ted_792#874 if you want the ultimate in placebo you go to the needle a syringe was some inert couple ccs of someone or something and you injected into a patient well this is such a powerful image in their mind that it's so much stronger than the white pill 
+ted_792#875 it really this graph well i'll show you some other time when we have slugs 
+ted_792#876 the point is the white pill is not as good as the blue pill is not as good as the capsule is not as good as the needle 
+ted_792#877 none of it has any real pharmaceutical quality it's only your belief that makes it real in your body and makes us stronger effect 
+ted_792#878 i wanted to see if i can take that idea and apply it to a magic trick 
+ted_792#879 take something that is obviously a fake trick and make it seem real 
+ted_792#880 we know from that study that when you want reality you go to the needle 
+ted_792#881 this is a seven inch hat pendants very very sharp and i'm going to just sterilized at a tiny bit 
+ted_792#882 this is really my flesh 
+ted_792#883 this is not damien's special grown flesh 
+ted_792#884 so that's my skin right there 
+ted_792#885 it 's not a hollywood special effects 
+ted_792#886 but i'm going to pierce my skin and run this needle through to the other side 
+ted_792#887 if you're queasy if you're faint easily i was doing this for some friends in the hotel room last night and some people that i didn't know when one woman almost passed out 
+ted_792#888 so i suggest if your knee if you get queasy easy that look away for about the next thirty in fact i'll do the bad part behind 
+ted_792#889 we don't get to see you can look away to if you'd like to 
+ted_792#890 so here's what happens right here at the beginning of my flesh at the lower part of my arm i just make a little peers i'm sorry mountain and i might freaking out and then just through my skin a tiny bit and out the other side like this 
+ted_792#891 essentially were in the same position we were in with the nitric sword 
+ted_792#892 but you can't count my fingers right now kenya 
+ted_792#893 so let me show you 
+ted_792#894 one two three four five 
+ted_792#895 i know what people think when they see this they go well he would certainly not dumb enough to stab himself through the skin to entertain us for a few minutes 
+ted_792#896 so let me give you a little peek 
+ted_792#897 look out there 
+ted_792#898 pretty good yeah though and the people in the back ok i didn't really see people and satellite rumor like starting to move in 
+ted_792#899 we give you a good close look at this 
+ted_792#900 that really is my skin 
+ted_792#901 that 's not a hollywood special effects 
+ted_792#902 my flesh and i can twist that around i'm sorry if you're getting queasy look away don't look at me 
+ted_792#903 people in the back or people on video years from now watching as well yeah that looks kind of neat and some sort of effect there but if it were real he would be sure there's a whole there and a holder if it were real he would be bleeding 
+ted_792#904 when we work option for you the normal 
+ted_792#905 i would take the needle out of it clean of my arm and i will show you that there are no wounds 
+ted_792#906 but i think in this context and with the idea of taking something fake and making it into something real i'm just going to leave it there and walk off the stage i will be seen several times over the next few days 
+ted_792#907 i hope you're looking forward to that 
+ted_792#908 
+ted_799#1000 and a half time job it's because we know when we'll playing a game that we're actually happier working hard 
+ted_799#1001 relaxing or hanging out we know that we are optimized as human beings 
+ted_799#1002 hard and meaningful work and gamers are willing to work hard all the time 
+ted_799#1003 but given the right work finally epic meaning gamers love to be attached to an inspiring mission 
+ted_799#1004 q human planetary scale stories for just one bit of trivia that helps put that into perspective for you all know wikipedia 
+ted_799#1005 biggest working in the world second biggest winking in the world with nearly eighty pounds and articles 
+ted_799#1006 the world of warcraft wiki five 
+ted_799#1007 a million people use it every month they have compiled more information about world of warcraft on the internet than any other topics covered 
+ted_799#1008 he had been working in the world they are building an epic story they are building an epic knowledge 
+ted_799#1009 we thought about the world of warcraft ok through these are for superpower that add up to one thing 
+ted_799#1010 gamers are super empowered hopeful individuals these are people who believe that they are 
+ted_799#1011 individually capable of changing the world and the only problem is they believed that they are capable of changing virtual 
+ted_799#1012 world and not the real world that 
+ted_799#1013 problems that i'm trying to solve driven economy 
+ted_799#1014 were casanova his work is brilliant he looks at why people are investing so much time 
+ted_799#1015 energy and money in online world he says we're witnessing what amounts to no less than a mass exodus to virtual worlds an online game environment and even economists 
+ted_799#1016 he is rational and he said not like 
+ted_799#1017 from a game designer and exuberant but he said he said that makes perfect sense because gamers can achieve more an online world 
+ted_799#1018 when they can in real life they can have stronger social relationships and games and they can have in real life they get better feedback and feel more rewarded in games 
+ted_799#1019 when they do in real life so he says for now it makes perfect sense for gamers to spend more time 
+ted_799#1020 a virtual worlds and the real world now i also agree 
+ted_799#1021 but that is rational for now but it is not 
+ted_799#1022 by any means an optimal situation we have to start making the real 
+ted_799#1023 world walk more like a game so i take my inspiration from 
+ted_799#1024 something that happened twenty five hundred years ago 
+ted_799#1025 ancient days made out of sheep knuckle right before we had 
+ted_799#1026 boston game controllers we had she pinnacle and the copper then the first game equipment designed by human being and if you're familiar with the work of the ancient greek historian herodotus you might know the history which is 
+ted_799#1027 a history of who invented games and why hurghada to says the games particularly dice games were invented in the kingdom 
+ted_799#1028 lydia during a time of famine apparently there was such a severe famine that the king of lydia decided they had to do something crazy people were suffering people were fighting it was 
+ted_799#1029 extreme situation they needed an extreme solution so according to relative they invented dice games and they set up a kingdom wide policy on one day everybody would eat and 
+ted_799#1030 in the next day everybody would play games and they will be so immersed in playing the dice games because games are so engaging and a mirth and such satisfying blissful productivity they would ignore the fact 
+ted_799#1031 it had no food to eat and then on the next day they would play games 
+ted_799#1032 the next day they would eat and according to her additive the past eighteen years this way surviving there were hamman by eating online 
+ted_799#1033 day and playing games on the next now this is exactly 
+ted_799#1034 i think how we're using games today we're using games to escape real world suffering for using game to get away from everything that's broken in the real environment everything that's not satisfying about real life 
+ted_799#1035 forgetting what we need from game 
+ted_799#1036 but it doesn't happen 
+ted_799#1037 and there this is really exciting according to her auditors after eighteen years the famine wasn't getting better so the king divided 
+ted_799#1038 we play one final dice game 
+ted_799#1039 be divided the entire kingdom in half they played one dice game and the winner of that game 
+ted_799#1040 it got to go on an epic adventure they would leave lydia and they would go out in search of a new place to live leaving behind just enough people to survive on the resources that were available and hopefully to take 
+ted_799#1041 civilization somewhere else 
+ted_799#1042 could thrive now the sounds crazy right but recently dna evidence has shown that the etruscans who then led to the roman empire actually shared 
+ted_799#1043 for the same dna as the ancient litigants and so recently scientists have suggested 
+ted_799#1044 it hurghada schiff 's crazy story is actually true and geologists have found evidence of a global cooling that lasted for nearly twenty 
+ted_799#1045 for years that could explain the famine 
+ted_799#1046 so that's crazy story might be true they might have actually saved their culture by playing games escaping to games for eighteen years and then been so inspired and and you so much about how to come together with games the 
+ted_799#1047 actually save the entire civilization that went ok we can do that 
+ted_799#1048 read them playing warcraft and nine hundred and ninety four that was the first real time strategy 
+ted_799#1049 came from iran 
+ted_799#1050 theories that was sixteen years ago they play dice games for eighteen years 
+ted_799#1051 we've been playing work have for sixteen years i say we are 
+ted_799#1052 be ready for our own epic game now they had half the civilization go off in search of a new world so that's where i get my twenty one billion 
+ted_799#1053 five hours a week of gameplay from let's get half of us to agree to spend an hour day playing 
+ted_799#1054 a game until we solve real world problems now i know you're asking how are we going to solve problems and games well that's what i had devoted my work to over the past few 
+ted_799#1055 for years at the institute for the future we have this banner and our offices in palo alto and it expresses our view of how 
+ted_799#1056 and to try to relate to the future we do not 
+ted_799#1057 want to try to predict the future but 
+ted_799#1058 want to do is make the future we want to imagine the best case scenario outcome and then we want to empowered 
+ted_799#1059 people to make that outcome reality we want to imagine epic wind and then give people 
+ted_799#1060 a means to achieve the epic when i'm just gonna very briefly show you three games that i'd made that are an attempt to give people the means 
+ted_799#1061 create epic wind in 
+ted_799#1062 in future world without 
+ted_799#1063 while we made this game in two thousand and seven there is an online game in which 
+ted_799#1064 we try to survive an oil shortage the oil shortage is fictional but we put enough online content out there for you to believe that it's real and to live your real life 
+ted_799#1065 as if we've run out of oil so when you come to the game you find out you tell us where you live and then we give you a real time news videos data feeds that show you exactly how much oil costs what's not available health food supplies being affected how transportation is being affected schools are closed if there's riding and you have to figure out how you would live 
+ted_799#1066 in real life as if this were true and then we asked you to blog about 
+ted_799#1067 to post videos to post photos we piloted with game seven thousand eight hundred players in two thousand and seven 
+ted_799#1068 we track them for the three year hints and i can 
+ted_799#1069 telling you that this was a transformative experience nobody wants to change how they lived just because it's good 
+ted_799#1070 for the world or because we're supposed to but if you immerse them and an epic adventure and tell them we find out of oil this was an amazing 
+ted_799#1071 story and adventure for you to go on challenge yourself to see how you would survive most of our players have kept 
+ted_799#1072 bad habits they learned in this game so for the next world saving game we try it 
+ted_799#1073 higher bigger problem than just peak oil we did 
+ted_799#1074 superstruct at the institute for the future and the panelists was a supercomputer have calculated that humans 
+ted_799#1075 if only twenty three years left on the planet the supercomputer 
+ted_799#1076 called the global extinction awareness system of course when we asked people 
+ted_799#1077 come online almost like a jerry bruckheimer movie jerry bruckheimer movie you form a dream team you've got the astronaut the scientists the ex convict and they all have something to do to feed the world but in our game instead of just having five people on the dream team we fed everybody's on the dream team and it's your job to invent the future of energy the future of food the future of health the future of security and the future of the social safety net 
+ted_799#1078 eight thousand people play that game for eight week that came up with five hundred in family creative solutions 
+ted_799#1079 but you can go online if you google superstruct nancy said 
+ted_799#1080 finally the last game we're launching it march third 
+ted_799#1081 with the game done with the world bank institute and complete the game you will be certified by the world 
+ted_799#1082 bank institute as a social innovator class of two thousand and ten working with universities all over sub saharan africa and 
+ted_799#1083 we are inviting them to learn social innovation skills we've got a graphic novel we've got leveling up and skills 
+ted_799#1084 by local insight knowledge networking sustainability vision and resourcefulness i would like him by all of you to please share this game with young people anywhere in the world particularly in developing areas who might benefit from coming together to try to start 
+ted_799#1085 imagine their own social enterprises to save the world so i'm going to wrap up now 
+ted_799#1086 ask a question what do you think happens next we've got to leave the mainland gamers we've got these games that are kind of pilot for what we might do 
+ted_799#1087 one of them have saved the real world yet well i hope that you will agree with me that gamers are a human resource that we can use to do real world 
+ted_799#1088 work that games are a powerful platform for change we have all these amazing superpowers blissful productivity the ability to weave a tight social fabric that feeling 
+ted_799#1089 some urgent optimism and the desire for epic meaning i really hope that we can come together to play games 
+ted_799#1090 matter to survive on this planet for another century and that's my hope that you will 
+ted_799#1091 have joined me and making and playing games like this when i look forward to the next decade i know two things for sure that we can make any future we can imagine and we can play any games we want 
+ted_799#1092 flaws 
+ted_799#1093 playing 
+ted_799#909 radical i'm a game designer 
+ted_799#910 and making games online now for ten years and my goal for the next decade is to try to make it as easy to save the world in real life as it is to save the world in online game 
+ted_799#911 now i have a plan for this and it entails convincing more people including all of you to spend more time playing bigger and better game 
+ted_799#912 right now we spend three billion hours a week playing online games 
+ted_799#913 some of you might be thinking that's a lot of time to fend playing games 
+ted_799#914 and maybe too much time considering how many urgent problems we have to fall in the real world but actually according to my research institute for the future but it's actually the opposite is true 
+ted_799#915 three billion hours a week is not nearly enough gameplay to solve the world's most urgent problems 
+ted_799#916 in fact i believe that if we want to survive the next century on the planet we need to increase that total dramatically 
+ted_799#917 calculated the total we need at twenty one billion hours of gameplay every week 
+ted_799#918 so that's probably a bit of a counterintuitive idea there i'll just say it again when it think in if we want to solve problems like hunger poverty climate change global conflict obesity i believe that we need to aspire to play games online for at least twenty one billion hours a week by the end of the next decade i'm here i am 
+ted_799#919 and here's why this picture pretty much summed up why i think games are so essential to the future survival of the human species 
+ted_799#920 truly within the portrait by a photographer named phil told honor he wanted to capture the emotion of gaming so we set up a camera in front of gamers while they were playing 
+ted_799#921 and this is a classic gaming emotion 
+ted_799#922 now if you're not a gamer you might miss them the nuance and the photo 
+ted_799#923 and you probably he defensive urgency a little bit of fear but intense concentration deep deep focus on tackling a really difficult problem 
+ted_799#924 if you are a game or you will notice a few nuances here the crinkle of the eyes up and around the mouth is a sign of optimism and the eyebrows up and surprise 
+ted_799#925 a gamer who is on the verge of something called an ethic when now 
+ted_799#926 have you heard them 
+ted_799#927 epic when is an outcome that is so extraordinarily positive you had no idea was even possible until you achieved 
+ted_799#928 with almost beyond the threshold of imagination and when you get there you are shocked to discover what you're truly capable 
+ted_799#929 and that's when epic 
+ted_799#930 before the game are on the verge of an epic wins 
+ted_799#931 this is the faith that we need to see on millions are problem solvers all over the world as we try to tackle the obstacles of the next century the face of someone who against all odds it on the verge of an epic when 
+ted_799#932 unfortunately this is more of the faith that wi fi and everyday life now as we try to tackle urgent problems 
+ted_799#933 because what i call the i'm not good at life faith 
+ted_799#934 and actually me making it can you just get me making the i'm not good at life faith 
+ted_799#935 the piece of graffiti and my old neighborhood in berkeley california where i did my phd on why we're better and games then we are in real life 
+ted_799#936 this is a problem that a lot of gamers have 
+ted_799#937 we feel that we are not as good in reality as we are in games 
+ted_799#938 i don't mean just good at and successful although that's part of it 
+ted_799#939 we do achieve more and gain world 
+ted_799#940 but i also mean good as in motivated to do something that matters inspired to collaborate and cooperate 
+ted_799#941 when we're in game worlds i believe that many of us become the best version of ourselves the most likely to help at a moment's notice the most likely to stick with a problem as long as it takes to get up after failure and try again 
+ted_799#942 in real life when we when we failure when we confront obstacles we often don't feel that way 
+ted_799#943 we feel overcome we feel overwhelmed we feel anxious maybe depressed frustrated or clinical 
+ted_799#944 we never had this feeling somewhere playing games they just on existing game 
+ted_799#945 so that's what i wanted to study when i was a graduate student 
+ted_799#946 what about games make that impossible to feel that we can't achieve everything 
+ted_799#947 how can we take those feelings from games and apply them to real world work 
+ted_799#948 i looked at games like world of warcraft which is really the ideal collaborative problem solving environment 
+ted_799#949 i started to notice a few things that make epic when so possible an online world 
+ted_799#950 so the first thing is whenever you show up and one of its online games especially in world of warcraft there are lots and lots of different characters who are willing to trust you with a world saving mission right away 
+ted_799#951 but not just any mission and if a mission that it perfectly matched with your current level in the game right so you can do it 
+ted_799#952 never give you a challenge that you can't achieve 
+ted_799#953 but it did on the verge of what you're capable up so you have to try hard 
+ted_799#954 but there's no unemployment and world of warcraft there's no sitting around wringing their hands is always something specific and important be done 
+ted_799#955 also tons 
+ted_799#956 everywhere you go hundreds of thousands of people ready to work with you to achieve your epic mission 
+ted_799#957 not something we have been a real life that easily defense set at our fingertips are tons of collaborate 
+ted_799#958 also versus the epic story this inspiring story of why were there and what we're doing and then we get all this positive feedback 
+ted_799#959 we have heard of levelling up and plus one strength and plus once intelligent 
+ted_799#960 we don't get the kind of constant feedback in real life 
+ted_799#961 when i get off the stage i'm not going to have plus one speaking and plus one crazy idea plus twenty crazy idea 
+ted_799#962 i don't get that feedback in real life 
+ted_799#963 the problem with collaborative online environments like world of warcraft is that it so satisfying to be on the verge of an epic when all the time that we decide to spend all our time in the game world 
+ted_799#964 it 's better than reality 
+ted_799#965 so far collectively all the world of warcraft gamers have spent five point nine million years solving the virtual problems of as a rough 
+ted_799#966 if not necessarily a bad thing 
+ted_799#967 it might sound like a bad thing but to put that in context five point one three million years ago with when our earliest human ancestors stood out 
+ted_799#968 it was the first upright primate 
+ted_799#969 so when we talk about how much time we're currently investing and playing games the only way it makes sense to even think about it is to talk about time at the magnitude of human evolution which is an extraordinary thing 
+ted_799#970 but it's also act because it turned out that by spending all the time playing games were actually changing what we are capable of as human beings 
+ted_799#971 were evolving to be a more collaborative and hearty species this is true believers 
+ted_799#972 considering this really interesting statistic and his recently published by researcher at carnegie mellon university the average young person today in a country with a strong gamer culture will have spent ten thousand hours playing online games by the age 
+ted_799#973 one now ten thousand hours is a really interesting number 
+ted_799#974 for two reasons first of all for children in the united states candles and an eighty hours in the exact amount of time you will spend in school from fifth grade to high school graduation if you have perfect attendance so we have an entire parallel track of education going on where young people are learning as much about what it takes to be a good gamer of your learning about everything 
+ted_799#975 dolphin school and some of you are probably read malcolm gladwell 's new book outliers so you would have heard of his theory of success the ten thousand 
+ted_799#976 our theory of success it's based on the great cognitive science and research that if we can master ten thousand hours of effortful study at anything by the age of twenty one 
+ted_799#977 will be virtuoso that we will be as good at whatever we do as 
+ted_799#978 greatest people in the world and so now what we're looking at is an entire generation of young 
+ted_799#979 people who are virtuoso gamers so the big question is what exactly are gamer getting so good at because if we could figure that out we would have a virtually unprecedented 
+ted_799#980 human resource on our hands how many people we have in the world who spend at least an hour 
+ted_799#981 a day playing online games these are virtuoso gamers five hundred million people 
+ted_799#982 extraordinarily good at something and in the next decade we're going to have another billion gamers who are externally 
+ted_799#983 good at whatever that it if you don't know 
+ted_799#984 it already this is coming the game industry is developing console that are low energy and network with the wireless phone network instead of broadband internet so that gamers all over the world particularly in india 
+ted_799#985 china brazil can get online they expected one billion more 
+ted_799#986 cameras on the next decade will bring 
+ted_799#987 point five billion gamers so i started to think about what these games 
+ted_799#988 for making us virtuoso that here the foreign 
+ted_799#989 if things i came up with 
+ted_799#990 the first is urgent optimism 
+ted_799#991 with his extreme self motivation urgent optimism in the desire to act immediately to tackle an obstacle combined with the belief that we have 
+ted_799#992 a reasonable hope of success gamers always believe that an epic whenever possible and then it all 
+ted_799#993 worth trying and trying 
+ted_799#994 bow gamers don't sit around gamers are virtuoso 
+ted_799#995 weaving a kite social fabric a lot of interesting research that shows that we like people better after we play a game with them 
+ted_799#996 if they beat enough badly and the reason is that takes a lot of trust 
+ted_799#997 play a game with someone we trust that they will spend their time with earth that they will play by the same rules value the same goal they'll stay with 
+ted_799#998 a game until it's over and so playing a game together actually build up 
+ted_799#999 bonds and trust and cooperation and we actually build stronger social relationships as a result blissful productivity i love it here there's a reason why the average world of warcraft gamer plays for twenty two hours a week 
+ted_805#1094 one day los angeles times columnist steve lopez was walking along the streets of downtown los angeles when he heard beautiful music 
+ted_805#1095 the source was a man an african american man charming rugged homeless playing a violin that only had two strings 
+ted_805#1096 but i'm telling a story that many of you know because steve's columns became the basis for a book which was turned into a movie with robert downey jr acting as steve lopez and jamie foxx says nathaniel anthony ayers the juilliard trained double bassist was promising career was cut short by a tragic affliction with paranoid schizophrenia 
+ted_805#1097 spaniel dropped out of juilliard he suffered a complete breakdown and thirty years later he was living homeless on the streets of skid row in downtown los angeles 
+ted_805#1098 i encourage all of you to reach teams book or to watch the movie to understand not only the beautiful bond that form between these two men but how music helped shape that bond and ultimately was instrumental if you'll pardon the pun in helping nathaniel get off the streets 
+ted_805#1099 i met mr ears in two thousand and eight two years ago at walt disney concert hall 
+ted_805#1100 he had just heard a performance of beethoven's first and fourth symphonies and came backstage and introduced himself 
+ted_805#1101 speaking in a very jovial and gregarious way about yo yo ma and hillary clinton and how the dodgers were never going to make the world series all because of the treacherous first violin passage work in the last movement of beethoven's fourth symphony and we got talking about music and i got an email from steve a few days later saying that nathaniel was interested in a violent lesson with me 
+ted_805#1102 i should mention that nathaniel refuses treatment because when he was treated with shock therapy and thorazine and handcuffs and that scar has stayed with him for his entire life 
+ted_805#1103 but as a result now he is prone to these schizophrenic episodes the worst of which can manifest themselves as him exploding and then disappearing for days wandering the streets of skid row exposed to its horrors with the torment of his own mind unleashed upon him 
+ted_805#1104 nathaniel was in such a state of agitation when we started our first lesson at walt disney concert hall he had a kind of manic glint in his eyes he was lost 
+ted_805#1105 he was talking about invisible demons and smoke and how someone was poisoning him in his sleep 
+ted_805#1106 i was afraid not for myself but i was afraid that i was going to lose him that he was going to sink into one of his states and that i would ruin his relationship with the violin if i started talking about scales and our pyjamas and other exciting forms of didactic violin pedagogy so i just started playing 
+ted_805#1107 i played the first movement after beethoven violin concerto 
+ted_805#1108 and as i played i understood that there was a profound change occurring in nathaniel his eyes 
+ted_805#1109 it was as if he was in the grip of some invisible pharmaceutical chemical reaction for which my playing the music was its catalyst 
+ted_805#1110 samuels manic rage was transformed into understanding a quiet curiosity and grace 
+ted_805#1111 in a miracle he lifted his own violin and he started playing by ear certain snippets of violin concerto which he then asked me to complete mendelssohn tchaikovsky's rebellious 
+ted_805#1112 we started talking about music from back to beethoven and brahms brookner all the bees from bartok all the way up to a sceptic a sullen 
+ted_805#1113 and i understood that he not only had an encyclopedic knowledge of music but he related to this music at a personal level 
+ted_805#1114 he spoke about it with the kind of passion and understanding that i share with my colleagues in the los angeles philharmonic 
+ted_805#1115 and through playing music and talking about music this man had transformed from the paranoid disturb man that had just come from walking the streets of downtown los angeles to the charming erudite brilliant juilliard trained musicians 
+ted_805#1116 music is medicine music changes us and for nathaniel music is sanity 
+ted_805#1117 because music allows him to take his thoughts and delusions and shape them through his imagination and his creativity into reality 
+ted_805#1118 that 's an escape from his tormented state 
+ted_805#1119 i understood that this was the very essence of art 
+ted_805#1120 because the very reason why we made music that we take something that exists within all of us at our very fundamental core our emotions and through our artistic lens through our creativity were able to shape those emotions into reality 
+ted_805#1121 the reality that expression reaches all of us and moves us inspires and unites us 
+ted_805#1122 for nathaniel music brought him back into a folder friends 
+ted_805#1123 the redemptive power of music brought him back into a family of musicians that understood him that recognized his talents and respected him 
+ted_805#1124 i will always make music with nathaniel whether we're at walt disney concert hall or on skid row because he reminds me why i became a musician 
+ted_805#1125 bank 
+ted_805#1126 he said 
+ted_805#1127 i shamelessly stole from childhood so please forgive 
+ted_824#1128 right here we have a machine 
+ted_824#1129 big machine a cool perished machine and it's a time machine 
+ted_824#1130 everyone in this room after getting into it 
+ted_824#1131 and you can go backwards and you can go forward you cannot stay where you are 
+ted_824#1132 applause 
+ted_824#1133 want to go back and four there were automobiles or twitter or american idol i don't know i'm unconvinced that there's some sort of painter nostalgia to wishful thinking and i understand 
+ted_824#1134 that part of that crowd i have to say 
+ted_824#1135 i don't want to go back and it's not because i'm adventurous 
+ted_824#1136 because possibilities on this planet they don't go back to go forward 
+ted_824#1137 i want to get into the machine and i want to go forward 
+ted_824#1138 is the greatest time there's ever been on this planet by any measure that you wish to choose health well mobility opportunity declining later disease there's never been a time like this 
+ted_824#1139 and my great grandparents died all of them but the time they were sixty 
+ted_824#1140 my grandparents push that number to sunday 
+ted_824#1141 by parents are closing in on ebay 
+ted_824#1142 i 'd better be it better be a name in the beginning of my death number 
+ted_824#1143 flanagan about people like us because this is a bigger deal than that 
+ted_824#1144 kit born in new delhi today can expect to live as long as the richest man in the world did one hundred years ago 
+ted_824#1145 think about that it's an incredible back 
+ted_824#1146 why is a true smallpox smallpox killed billions of people on this planet 
+ted_824#1147 reshaped the demography and the globe in a way that no wherever has gone into managed will vanquish to put in the rich world diseases that threatens millions of us just a generation ago no longer and that's hardly 
+ted_824#1148 syria rubella does anybody know what those things are 
+ted_824#1149 proxies modern medicine our ability to feed billions of people those our triumphs of the scientific method 
+ted_824#1150 to my mind the scientific method try and stuff out seeing if it works changing it when it doesn't is one of the great accomplishments of humanity 
+ted_824#1151 so that's the good news 
+ted_824#1152 unfortunately not all the good news because there's some other problems and they've been mentioned many times 
+ted_824#1153 one of them is that despite our accomplishments a billion people go to bed hungry in this world every day 
+ted_824#1154 number is rising and its rising really rapidly and its disgraceful 
+ted_824#1155 and not only that we've used our imagination to thoroughly trash this globe 
+ted_824#1156 potable water arable land rainforests oil gas they're going away and they're going away soon and unless we innovate our way out of this mess we're going away 
+ted_824#1157 the question is can we do that 
+ted_824#1158 i think we can 
+ted_824#1159 i think it's clear that we can make food there will feed billions of people without raping the land that they live on 
+ted_824#1160 we can power this world with energy that doesn't also destroy 
+ted_824#1161 i really do believe that and know it ain't wishful thinking 
+ted_824#1162 but here's the thing that keeps me up at night one of the things that keeps me up at night we've never needed progress in science more than we need it right now never and we've also never been in a position to deploy a properly in the way that we can today 
+ted_824#1163 we are on the verge of amazing amazing events in many fields and yet i actually think we'd have to go back hundreds three hundred years before the enlightenment to find a time when we battled progress when we thought about these things more vigorously on a more french than we do now 
+ted_824#1164 people wrap themselves in their beliefs and they do it so tightly that you can't set them free 
+ted_824#1165 not even the truth will set them free 
+ted_824#1166 listen everyone's entitled to their opinion there are even entitled to their opinion about progress 
+ted_824#1167 when you're not entitled to 
+ted_824#1168 we are not entitled to your own doubts sorry you're not 
+ted_824#1169 it took me a while to figure out 
+ted_824#1170 about a decade ago i wrote a story about vaccines for the new yorker a little story and i was amazed to find opposition opposition to what is after all the most effective public health measure in human history 
+ted_824#1171 i don't know what to do so i just did what i do i wrote a story and i moved on and on 
+ted_824#1172 soon after that i wrote a story about genetically engineered food 
+ted_824#1173 same thing only bigger 
+ted_824#1174 people were going crazy 
+ted_824#1175 so i wrote a story about that too and i couldn't understand why people thought this was frankenfoods why did not moving molecules around in a specific rather than a haphazard way was trespassing on nature's ground 
+ted_824#1176 but i do what i do i wrote the story i moved on 
+ted_824#1177 i 'm a journalist 
+ted_824#1178 we tried we file will go to dinner it's fun but these stories bothered me and i couldn't figure out why and eventually i did 
+ted_824#1179 and that's because of those fanatics that we're driving me crazy weren't actually fanatics at all 
+ted_824#1180 were thoughtful people educated people decent people 
+ted_824#1181 but they were exactly like the people in this room and it just disturbed me so much but then i thought let's be honest 
+ted_824#1182 we 're at a point in this world where we don't have the same relationship to progress that we used to 
+ted_824#1183 we talk about it ambivalently 
+ted_824#1184 we talk about it in ironic terms with little quote surrounded progress ok there are reasons for that and i think we know with those reasons 
+ted_824#1185 we have lost faith in institutions in authority and some constant science itself and there there's no reason 
+ted_824#1186 you can just say a few names and people will understand 
+ted_824#1187 chernobyl bhopal the challenger bioshock weapons of mass destruction hanging chads 
+ted_824#1188 you can choose your list 
+ted_824#1189 there are questions and problems with the people we used to believe we're always right so be skeptical 
+ted_824#1190 questions demand proved demand evidence 
+ted_824#1191 we don't take anything for granted 
+ted_824#1192 but here's the thing when you get proof you need to accept the proof and we're not that good at doing that 
+ted_824#1193 and the reason that i can say that is because we're now in an epidemic of one that i've never seen and hope never to see again 
+ted_824#1194 about twelve years ago there was a story published a horrible story that linked the epidemic of autism to the measles mumps rubella vaccine shot very scary tons of studies were done to see if this was true 
+ted_824#1195 kinds of studies should have been done it's an a serious issue the data came back to david came back from the united states from england from sweden from canada and it was all the same no correlation no connection not at all 
+ted_824#1196 it doesn't matter it doesn't matter because we believe anecdotes we believe what we see what we think we see what makes us feel real 
+ted_824#1197 we don't believe a bunch of documents from a government official giving us data and i do understand that i think we all do 
+ted_824#1198 but you know what 
+ted_824#1199 as a result of that has been disastrous 
+ted_824#1200 disastrous because here's attack the united states is one of the only countries in the world where the vaccine rate from measles is going down 
+ted_824#1201 but that is disgraceful and we should be ashamed of ourselves it's horrible and what kind of what kind of a thing happen that we can do that now i understand it 
+ted_824#1202 anyone measles here to one person in this audience ever see someone die of measles 
+ted_824#1203 it doesn't happen very much 
+ted_824#1204 it doesn't happen in this country but it happened one hundred and sixty thousand tons of the world last 
+ted_824#1205 that's a lot of death of measles twenty 
+ted_824#1206 but since it didn't happen here we can put it out of our minds and people like jenny mccarthy can go around preaching messages or beer and illiteracy from platforms like oprah and larry king live and they can do it because they don't link causation and correlation 
+ted_824#1207 they don't understand that these things seemed at the time but there are almost never the same 
+ted_824#1208 it 's something we need to learn and we need to learn it really soon 
+ted_824#1209 gotten the hero john 
+ted_824#1210 he took one of the worst scourges of mankind away from us 
+ted_824#1211 name is paul at it he just developed wrote a virus reacting with a bunch of other people 
+ted_824#1212 it will save the lives of four hundred five hundred thousand kids in the developing world 
+ted_824#1213 we 're pretty good 
+ted_824#1214 good except their partners around talking about vaccines and says how valuable they are the people ought to just stop the wind 
+ted_824#1215 we actually sent it that way 
+ted_824#1216 so pass a terrorist when pumps beacon of public hearing he can't catch defy without armed guards 
+ted_824#1217 he gets called at home because people like to tell them that they remember where his kids go to school and why because paul made a vaccine 
+ted_824#1218 need to say this but vaccines are essential 
+ted_824#1219 if you take them away to the comes back horrible diseases and that's happening 
+ted_824#1220 we have measles in this country now 
+ted_824#1221 and it's getting worse and pretty soon kids are going to die again because it's just a numbers game 
+ted_824#1222 not just going to die of needles what about when we have that why not a college classmate of mine wrote me a couple of weeks ago and said she thought it was a little strident 
+ted_824#1223 no one's ever said that before 
+ted_824#1224 if she wasn't going to vaccinate her kid against polio no way fine why because we don't have polio 
+ted_824#1225 when you know what 
+ted_824#1226 we didn't have polio in this country yesterday 
+ted_824#1227 today i don't know maybe a guy got on a plane and law goes this morning and he's flying x ray will grow higher 
+ted_824#1228 and he's going to land and a couple hours are going to rent a car and he's going to come to long beach and it's going to be spotted with ted dinner tonight 
+ted_824#1229 nobody is infected with a paralytic disease and we know either because that's the way the world works 
